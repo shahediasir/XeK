@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2014) (preloaded format=pdflatex 2015.8.12)  12 JUN 2017 16:24
+This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2014) (preloaded format=pdflatex 2015.8.12)  13 JUN 2017 16:03
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -816,11 +816,7 @@ File: english.lbx 2013/11/25 v2.8a biblatex localization (PK/JW/AB)
 )
 \@quotelevel=\count299
 \@quotereset=\count300
- (./main.aux
-
-LaTeX Warning: Label `eq_isotropicmatrix' multiply defined.
-
-)
+ (./main.aux)
 \openout1 = `main.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 44.
@@ -837,7 +833,7 @@ LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 44.
 LaTeX Font Info:    ... okay on input line 44.
 LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 44.
 LaTeX Font Info:    ... okay on input line 44.
- (/usr/share/texlive/texmf-dist/tex/context/base/supp-pdf.mkii
+(/usr/share/texlive/texmf-dist/tex/context/base/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count301
 \scratchdimen=\dimen148
@@ -945,385 +941,65 @@ Package biblatex Info: Reference segment=0 on input line 44.
 
 {/usr/share/texlive/texmf-dist/fonts/map/pdftex/updmap/pdftex.map}]
 Chapter 1.
-(./chapters/Introduction.texpdfTeX warning (ext4): destination with the same id
-entifier (name{page.1}) has been already used, duplicate ignored
+(./chapters/Introduction.tex)pdfTeX warning (ext4): destination with the same i
+dentifier (name{page.1}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.8 
-     [1
+l.67 \chapter
+             {Methodology} [1
 
 
-] [2] [3]) [4]
+]
 Chapter 2.
 (./chapters/Methodology.tex
-LaTeX Font Info:    Try loading font information for U+msa on input line 5.
+<images/fcc_mesh.png, id=54, 534.99875pt x 531.9875pt>
+File: images/fcc_mesh.png Graphic file (type png)
+
+<use images/fcc_mesh.png>
+Package pdftex.def Info: images/fcc_mesh.png used on input line 6.
+(pdftex.def)             Requested size: 267.49872pt x 265.9931pt.
+ <images/Xe_K.png, id=55, 639.89063pt x 376.40625pt>
+File: images/Xe_K.png Graphic file (type png)
+
+<use images/Xe_K.png>
+Package pdftex.def Info: images/Xe_K.png used on input line 14.
+(pdftex.def)             Requested size: 319.94452pt x 188.20265pt.
+ [2
+
+ <./images/fcc_mesh.png (PNG copy)>]) [3 <./images/Xe_K.png>]
+Chapter 3.
+(./chapters/Results.tex
+<images/result_Xe_U-10Mo.png, id=70, 526.96875pt x 376.40625pt>
+File: images/result_Xe_U-10Mo.png Graphic file (type png)
+
+<use images/result_Xe_U-10Mo.png>
+Package pdftex.def Info: images/result_Xe_U-10Mo.png used on input line 7.
+(pdftex.def)             Requested size: 263.48372pt x 188.20265pt.
+ [4
+
+]) [5 <./images/result_Xe_U-10Mo.png>]
+Chapter 4.
+(./chapters/Discussions.tex) [6
+
+]
+Chapter 5.
+(./chapters/Acknowledgments.tex) [7
+
+] [8
+
+]
+Appendix A.
+(./chapters/Appexndix.tex
+LaTeX Font Info:    Try loading font information for U+msa on input line 6.
 
 (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Try loading font information for U+msb on input line 5.
+LaTeX Font Info:    Try loading font information for U+msb on input line 6.
 
 (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
-) [5
-
-] [6] [7] [8]
-[9] [10] <images/rus_flow_01.PNG, id=262, 679.03688pt x 576.65437pt>
-File: images/rus_flow_01.PNG Graphic file (type png)
-
-<use images/rus_flow_01.PNG>
-Package pdftex.def Info: images/rus_flow_01.PNG used on input line 208.
-(pdftex.def)             Requested size: 475.32257pt x 403.6553pt.
-
-Overfull \hbox (58.48969pt too wide) in paragraph at lines 208--209
- [][] 
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 205--211
-
- []
-
-[11]
-Overfull \hbox (14.45502pt too wide) in paragraph at lines 218--218
-[]\OT1/cmr/bx/n/14.4 Example:Calculation of Res-o-nance fre-quen-cies of Rect-
- []
-
-<images/RP.png, id=272, 516.42938pt x 590.95781pt>
-File: images/RP.png Graphic file (type png)
- <use images/RP.png>
-Package pdftex.def Info: images/RP.png used on input line 221.
-(pdftex.def)             Requested size: 180.75299pt x 206.83832pt.
- [12 <./images/rus_flow_01.PNG>] [13 <./images/RP.png>]
-<images/stress_component.png, id=291, 583.42969pt x 415.5525pt>
-File: images/stress_component.png Graphic file (type png)
-
-<use images/stress_component.png>
-Package pdftex.def Info: images/stress_component.png used on input line 249.
-(pdftex.def)             Requested size: 291.71413pt x 207.77574pt.
- [14] [15 <./images/stress_component.png>]
-[16] <images/sym_argument.PNG, id=318, 436.63126pt x 395.97937pt>
-File: images/sym_argument.PNG Graphic file (type png)
-
-<use images/sym_argument.PNG>
-Package pdftex.def Info: images/sym_argument.PNG used on input line 335.
-(pdftex.def)             Requested size: 218.3151pt x 197.9892pt.
- [17 <./images/sym_argument.PNG>] [18] [19]
-<images/fig_isotrop.PNG, id=349, 550.30594pt x 454.69875pt>
-File: images/fig_isotrop.PNG Graphic file (type png)
-
-<use images/fig_isotrop.PNG>
-Package pdftex.def Info: images/fig_isotrop.PNG used on input line 426.
-(pdftex.def)             Requested size: 275.1523pt x 227.34882pt.
- [20 <./images/fig_isotrop.PNG>] [21] [22]
-Overfull \hbox (12.90889pt too wide) in paragraph at lines 458--458
-[]\OT1/cmr/bx/n/17.28 Classical So-lu-tion of Vi-brat-ing rings and tubes 
- []
-
-[23] [24]) [25]
-Chapter 3.
-(./chapters/Results.tex [26
-
-]
-<images/lorentz.PNG, id=420, 411.78844pt x 313.9228pt>
-File: images/lorentz.PNG Graphic file (type png)
-
-<use images/lorentz.PNG>
-Package pdftex.def Info: images/lorentz.PNG used on input line 46.
-(pdftex.def)             Requested size: 288.24992pt x 219.74446pt.
-
-<images/peaksplit.png, id=425, 448.67625pt x 184.43906pt>
-File: images/peaksplit.png Graphic file (type png)
-
-<use images/peaksplit.png>
-Package pdftex.def Info: images/peaksplit.png used on input line 55.
-(pdftex.def)             Requested size: 269.20782pt x 110.66428pt.
- [27 <./images/lorentz.PNG>] [28 <./images/peaksplit.png>] <images/flowchart_ru
-s.PNG, id=449, 377.15906pt x 633.11531pt>
-File: images/flowchart_rus.PNG Graphic file (type png)
-
-<use images/flowchart_rus.PNG>
-Package pdftex.def Info: images/flowchart_rus.PNG used on input line 95.
-(pdftex.def)             Requested size: 245.15048pt x 411.52007pt.
- [29] [30 <./images/flowchart_rus.PNG>] [31]
-<images/p_ratio.PNG, id=477, 547.2947pt x 398.99063pt>
-File: images/p_ratio.PNG Graphic file (type png)
-
-<use images/p_ratio.PNG>
-Package pdftex.def Info: images/p_ratio.PNG used on input line 152.
-(pdftex.def)             Requested size: 437.83635pt x 319.19293pt.
-
-Overfull \hbox (21.00346pt too wide) in paragraph at lines 152--153
- [][] 
- []
-
-[32] <images/F1-1.png, id=483, 266.1945pt x 226.446pt>
-File: images/F1-1.png Graphic file (type png)
- <use images/F1-1.png>
-Package pdftex.def Info: images/F1-1.png used on input line 163.
-(pdftex.def)             Requested size: 159.71793pt x 135.86864pt.
-
-<images/F1-2.png, id=484, 259.56975pt x 236.68425pt>
-File: images/F1-2.png Graphic file (type png)
- <use images/F1-2.png>
-Package pdftex.def Info: images/F1-2.png used on input line 167.
-(pdftex.def)             Requested size: 155.74304pt x 142.01164pt.
-
-<images/F2-2.png, id=485, 248.72925pt x 242.70676pt>
-File: images/F2-2.png Graphic file (type png)
- <use images/F2-2.png>
-Package pdftex.def Info: images/F2-2.png used on input line 171.
-(pdftex.def)             Requested size: 149.2387pt x 145.62517pt.
-File: images/F2-2.png Graphic file (type png)
-
-<use images/F2-2.png>
-Package pdftex.def Info: images/F2-2.png used on input line 175.
-(pdftex.def)             Requested size: 149.2387pt x 145.62517pt.
- <images/FB_1.png, id=486, 255.354pt x 215.00325pt>
-File: images/FB_1.png Graphic file (type png)
-
-<use images/FB_1.png>
-Package pdftex.def Info: images/FB_1.png used on input line 179.
-(pdftex.def)             Requested size: 153.21358pt x 129.00293pt.
- <images/FB_2.png, id=487, 265.59225pt x 219.219pt>
-File: images/FB_2.png Graphic file (type png)
-
-<use images/FB_2.png>
-Package pdftex.def Info: images/FB_2.png used on input line 183.
-(pdftex.def)             Requested size: 159.35657pt x 131.5324pt.
- <images/FB3.png, id=488, 258.9675pt x 226.446pt>
-File: images/FB3.png Graphic file (type png)
-
-<use images/FB3.png>
-Package pdftex.def Info: images/FB3.png used on input line 187.
-(pdftex.def)             Requested size: 155.38168pt x 135.86864pt.
- <images/T1.png, id=489, 271.0125pt x 224.037pt>
-File: images/T1.png Graphic file (type png)
-
-<use images/T1.png>
-Package pdftex.def Info: images/T1.png used on input line 191.
-(pdftex.def)             Requested size: 162.60875pt x 134.42322pt.
-
-Underfull \hbox (badness 1281) in paragraph at lines 192--192
-[]\OT1/cmr/m/n/12 Figure 3.5: |Mode shapes and their har-mon-ics for the low-es
-t modes for
- []
-
-[33 <./images/p_ratio.PNG>]
-Overfull \vbox (15.03096pt too high) has occurred while \output is active []
-
-
-[34 <./images/F1-1.png> <./images/F1-2.png> <./images/F2-2.png> <./images/FB_1.
-png> <./images/FB_2.png> <./images/FB3.png> <./images/T1.png>]
-<images/B1.png, id=517, 254.75175pt x 214.401pt>
-File: images/B1.png Graphic file (type png)
- <use images/B1.png>
-Package pdftex.def Info: images/B1.png used on input line 199.
-(pdftex.def)             Requested size: 152.85222pt x 128.64159pt.
-
-<images/F2.png, id=518, 249.3315pt x 227.04825pt>
-File: images/F2.png Graphic file (type png)
- <use images/F2.png>
-Package pdftex.def Info: images/F2.png used on input line 203.
-(pdftex.def)             Requested size: 149.60004pt x 136.23pt.
-
-<images/LB1.png, id=519, 254.1495pt x 229.45724pt>
-File: images/LB1.png Graphic file (type png)
- <use images/LB1.png>
-Package pdftex.def Info: images/LB1.png used on input line 207.
-(pdftex.def)             Requested size: 152.49088pt x 137.67538pt.
-
-<images/S1.png, id=520, 237.2865pt x 247.52475pt>
-File: images/S1.png Graphic file (type png)
- <use images/S1.png>
-Package pdftex.def Info: images/S1.png used on input line 211.
-(pdftex.def)             Requested size: 142.37299pt x 148.51599pt.
-
-<images/long_tube_LB1.png, id=524, 278.84175pt x 209.583pt>
-File: images/long_tube_LB1.png Graphic file (type png)
-
-<use images/long_tube_LB1.png>
-Package pdftex.def Info: images/long_tube_LB1.png used on input line 221.
-(pdftex.def)             Requested size: 111.53471pt x 83.8317pt.
-
-<images/long_tube_SA-1.png, id=525, 272.217pt x 226.446pt>
-File: images/long_tube_SA-1.png Graphic file (type png)
-
-<use images/long_tube_SA-1.png>
-Package pdftex.def Info: images/long_tube_SA-1.png used on input line 224.
-(pdftex.def)             Requested size: 108.88486pt x 90.57678pt.
-
-<images/long_tube_T1.png, id=526, 309.5565pt x 208.98074pt>
-File: images/long_tube_T1.png Graphic file (type png)
-
-<use images/long_tube_T1.png>
-Package pdftex.def Info: images/long_tube_T1.png used on input line 227.
-(pdftex.def)             Requested size: 123.8204pt x 83.5908pt.
- [35 <./images/B1.png> <./images/F2.png> <./images/LB1.png> <./images/S1.png> <
-./images/long_tube_LB1.png> <./images/long_tube_SA-1.png> <./images/long_tube_T
-1.png>]
-<images/norm_p1.PNG, id=552, 488.57532pt x 297.36093pt>
-File: images/norm_p1.PNG Graphic file (type png)
-
-<use images/norm_p1.PNG>
-Package pdftex.def Info: images/norm_p1.PNG used on input line 237.
-(pdftex.def)             Requested size: 342.0004pt x 208.15123pt.
-
-
-LaTeX Warning: Reference `mode_Y' on page 36 undefined on input line 241.
-
-) [36 <./images/norm_p1.PNG>]
-Chapter 4.
-(./chapters/Discussions.tex [37
-
-]
-
-LaTeX Warning: Reference `dim_joyo' on page 38 undefined on input line 9.
-
-[38]) [39]
-Chapter 5.
-(./chapters/Acknowledgments.tex
-<images/contact_resistance.png, id=573, 751.30687pt x 479.54156pt>
-File: images/contact_resistance.png Graphic file (type png)
-
-<use images/contact_resistance.png>
-Package pdftex.def Info: images/contact_resistance.png used on input line 6.
-(pdftex.def)             Requested size: 338.08496pt x 215.7917pt.
- [40
-
- <./images/contact_resistance.png>]
-[41] <images/contact_pressure.png, id=592, 882.29625pt x 276.28218pt>
-File: images/contact_pressure.png Graphic file (type png)
-
-<use images/contact_pressure.png>
-Package pdftex.def Info: images/contact_pressure.png used on input line 45.
-(pdftex.def)             Requested size: 352.91225pt x 110.51091pt.
- [42 <./images/contact_pressure.png>]
-<images/drawplug_1.PNG, id=609, 500.62032pt x 264.23718pt>
-File: images/drawplug_1.PNG Graphic file (type png)
-
-<use images/drawplug_1.PNG>
-Package pdftex.def Info: images/drawplug_1.PNG used on input line 71.
-(pdftex.def)             Requested size: 350.43182pt x 184.96475pt.
- [43 <./images/drawplug_1.PNG>]
-Overfull \hbox (5.15355pt too wide) in paragraph at lines 81--93
- [][] 
- []
-
-<images/tubes_target_bfore.PNG, id=616, 515.67656pt x 548.80031pt>
-File: images/tubes_target_bfore.PNG Graphic file (type png)
-
-<use images/tubes_target_bfore.PNG>
-Package pdftex.def Info: images/tubes_target_bfore.PNG used on input line 97.
-(pdftex.def)             Requested size: 257.83765pt x 274.39948pt.
-
-<images/plug_48_fig.png, id=618, 411.03563pt x 311.66437pt>
-File: images/plug_48_fig.png Graphic file (type png)
-
-<use images/plug_48_fig.png>
-Package pdftex.def Info: images/plug_48_fig.png used on input line 106.
-(pdftex.def)             Requested size: 287.72298pt x 218.16356pt.
- [44 <./images/tubes_target_bfore.PNG>]
-<images/p_48_psi.PNG, id=627, 353.52075pt x 205.36725pt>
-File: images/p_48_psi.PNG Graphic file (type png)
-
-<use images/p_48_psi.PNG>
-Package pdftex.def Info: images/p_48_psi.PNG used on input line 116.
-(pdftex.def)             Requested size: 212.11407pt x 123.2213pt.
-
-<images/p_50_psi.PNG, id=628, 352.31625pt x 208.3785pt>
-File: images/p_50_psi.PNG Graphic file (type png)
-
-<use images/p_50_psi.PNG>
-Package pdftex.def Info: images/p_50_psi.PNG used on input line 120.
-(pdftex.def)             Requested size: 211.39137pt x 125.02805pt.
-
-Overfull \hbox (10.58919pt too wide) in paragraph at lines 116--121
-[][] [][] 
- []
-
-[45 <./images/plug_48_fig.png> <./images/p_48_psi.PNG> <./images/p_50_psi.PNG>]
-<images/outer_tube.png, id=641, 499.11469pt x 413.29407pt>
-File: images/outer_tube.png Graphic file (type png)
-
-<use images/outer_tube.png>
-Package pdftex.def Info: images/outer_tube.png used on input line 135.
-(pdftex.def)             Requested size: 399.29228pt x 330.6357pt.
-
-Underfull \hbox (badness 10000) in paragraph at lines 139--141
-
- []
-
-[46 <./images/outer_tube.png>]
-<images/all_inner_tube.jpg, id=651, 914.41624pt x 596.2275pt>
-File: images/all_inner_tube.jpg Graphic file (type jpg)
-
-<use images/all_inner_tube.jpg>
-Package pdftex.def Info: images/all_inner_tube.jpg used on input line 146.
-(pdftex.def)             Requested size: 457.207pt x 298.11302pt.
-
-Overfull \hbox (40.37411pt too wide) in paragraph at lines 146--147
- [][] 
- []
-
-<images/3plut_plot_different_plug.png, id=653, 578.16pt x 666.23906pt>
-File: images/3plut_plot_different_plug.png Graphic file (type png)
-
-<use images/3plut_plot_different_plug.png>
-Package pdftex.def Info: images/3plut_plot_different_plug.png used on input lin
-e 154.
-(pdftex.def)             Requested size: 289.07928pt x 333.11871pt.
-
-Underfull \hbox (badness 10000) in paragraph at lines 151--157
-
- []
-
-[47 <./images/all_inner_tube.jpg>]
-Underfull \hbox (badness 10000) in paragraph at lines 159--173
-
- []
-
-
-LaTeX Warning: Reference `rus_setup' on page 48 undefined on input line 177.
-
-
-LaTeX Warning: Reference `rus_setup' on page 48 undefined on input line 177.
-
-[48 <./images/3plut_plot_different_plug.png>]
-<images/3tubes_plot.jpg, id=671, 1065.9825pt x 592.2125pt>
-File: images/3tubes_plot.jpg Graphic file (type jpg)
-
-<use images/3tubes_plot.jpg>
-Package pdftex.def Info: images/3tubes_plot.jpg used on input line 183.
-(pdftex.def)             Requested size: 426.38545pt x 236.8808pt.
-
-Overfull \hbox (9.55257pt too wide) in paragraph at lines 183--184
-[][] 
- []
-
-) [49 <./images/3tubes_plot.jpg>] [50
-
-]
-Overfull \hbox (3.95601pt too wide) in paragraph at lines 84--84
-\OT1/cmr/m/n/12 for ma-te-ri-als stud-ies and non-destructive test-ing''. In: \
-OT1/cmr/m/it/12 Ul-tra-son-ics \OT1/cmr/m/n/12 34.2 (1996),
- []
-
-
-Overfull \hbox (0.94055pt too wide) in paragraph at lines 84--84
-\OT1/cmr/m/n/12 for the de-ter-mi-na-tion of elas-tic mod-uli by res-o-nant ul-
-tra-sound spec-troscopy''.
- []
-
-
-Overfull \hbox (23.09953pt too wide) in paragraph at lines 84--84
-[]\OT1/cmr/m/n/12 Lt Pochham-mer. ``Ue-ber die Fortpflanzungs-geschwindigkeiten
- kleiner Schwingun-
- []
-
-[51] [52]
-Appendix A.
-(./chapters/Appexndix.tex
+)
 Overfull \hbox (13.21637pt too wide) in paragraph at lines 6--7
 [][][][][][][][][][][][][][][][][][][][][][][][][] 
  []
@@ -1346,55 +1022,39 @@ Overfull \hbox (41.41632pt too wide) in paragraph at lines 36--37
 [][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][] 
  []
 
-[53
+[9
 
 ])
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 91.
- [54]
+ [10]
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 91.
  (./main.aux)
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 91.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 91.
 Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: 0F178E5B3021692A33D98E8FC925193E;2076.
-
-
-LaTeX Warning: There were undefined references.
-
-
-LaTeX Warning: There were multiply-defined labels.
-
+(rerunfilecheck)             Checksum: D44E5D5A82E8012DC406278D8242BDA5;510.
 Package logreq Info: Writing requests to 'main.run.xml'.
 \openout1 = `main.run.xml'.
 
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 91.
  ) 
 Here is how much of TeX's memory you used:
- 15321 strings out of 495025
- 235927 string characters out of 6181515
+ 14785 strings out of 495025
+ 226826 string characters out of 6181515
  435204 words of memory out of 5000000
- 18014 multiletter control sequences out of 15000+600000
- 12191 words of font info for 46 fonts, out of 8000000 for 9000
+ 17724 multiletter control sequences out of 15000+600000
+ 9844 words of font info for 37 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
- 44i,12n,49p,1812b,1755s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 44i,10n,48p,1086b,1755s stack positions out of 5000i,500n,10000p,200000b,80000s
 </usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></us
-r/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/shar
-e/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr/share/texl
-ive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi6.pfb></usr/share/texlive/tex
-mf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/share/texlive/texmf-dist
-/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texlive/texmf-dist/fonts/
-type1/public/amsfonts/cm/cmr12.pfb></usr/share/texlive/texmf-dist/fonts/type1/p
-ublic/amsfonts/cm/cmr6.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/am
-sfonts/cm/cmr8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/c
-m/cmsy10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy
-6.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb><
-/usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb></usr/s
-hare/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt12.pfb></usr/share/t
-exlive/texmf-dist/fonts/type1/public/amsfonts/symbols/msbm10.pfb>
-Output written on main.pdf (55 pages, 3972631 bytes).
+r/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr/shar
+e/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texli
+ve/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texlive/tex
+mf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb>
+Output written on main.pdf (11 pages, 143128 bytes).
 PDF statistics:
- 869 PDF objects out of 1000 (max. 8388607)
- 724 compressed objects within 8 object streams
- 284 named destinations out of 1000 (max. 500000)
- 424 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 201 PDF objects out of 1000 (max. 8388607)
+ 176 compressed objects within 2 object streams
+ 80 named destinations out of 1000 (max. 500000)
+ 96 words of extra memory for PDF output out of 10000 (max. 10000000)
 

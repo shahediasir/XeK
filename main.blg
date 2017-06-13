@@ -13,55 +13,55 @@ Reallocated singl_function (elt_size=4) to 100 items from 50.
 Reallocated singl_function (elt_size=4) to 100 items from 50.
 Reallocated singl_function (elt_size=4) to 100 items from 50.
 Reallocated singl_function (elt_size=4) to 100 items from 50.
-Reallocated field_info (elt_size=4) to 10004 items from 5000.
 Database file #1: main-blx.bib
 Database file #2: reference.bib
-Repeated entry---line 109 of file reference.bib
- : @article{jaglinski2011use
- :                          ,
-I'm skipping whatever remains of this entry
+Warning--I didn't find a database entry for "bergman2011fundamentals"
+Warning--I didn't find a database entry for "song1988relative"
+Warning--I didn't find a database entry for "philip"
+Warning--I didn't find a database entry for "madhusudana1996thermal"
+Warning--I didn't find a database entry for "annemarie"
 Biblatex version: 2.8
 Reallocated singl_function (elt_size=4) to 100 items from 50.
 Reallocated wiz_functions (elt_size=4) to 9000 items from 6000.
-You've used 36 entries,
+You've used 4 entries,
             6047 wiz_defined-function locations,
-            1328 strings with 13443 characters,
-and the built_in function-call counts, 121527 in all, are:
-= -- 5825
-> -- 3930
-< -- 1487
-+ -- 1447
-- -- 1185
-* -- 7697
-:= -- 6677
+            1152 strings with 8928 characters,
+and the built_in function-call counts, 14043 in all, are:
+= -- 654
+> -- 476
+< -- 131
++ -- 222
+- -- 172
+* -- 1095
+:= -- 1026
 add.period$ -- 0
-call.type$ -- 36
-change.case$ -- 985
+call.type$ -- 4
+change.case$ -- 93
 chr.to.int$ -- 34
-cite$ -- 70
-duplicate$ -- 13518
-empty$ -- 12446
-format.name$ -- 2135
-if$ -- 28352
+cite$ -- 6
+duplicate$ -- 1499
+empty$ -- 1333
+format.name$ -- 327
+if$ -- 3107
 int.to.chr$ -- 0
-int.to.str$ -- 102
+int.to.str$ -- 9
 missing$ -- 0
-newline$ -- 856
-num.names$ -- 2116
-pop$ -- 11187
+newline$ -- 158
+num.names$ -- 193
+pop$ -- 1061
 preamble$ -- 1
-purify$ -- 1060
+purify$ -- 111
 quote$ -- 0
-skip$ -- 7789
+skip$ -- 800
 stack$ -- 0
-substring$ -- 4330
-swap$ -- 4470
-text.length$ -- 910
-text.prefix$ -- 39
+substring$ -- 527
+swap$ -- 500
+text.length$ -- 101
+text.prefix$ -- 4
 top$ -- 1
-type$ -- 1353
+type$ -- 140
 warning$ -- 0
-while$ -- 670
+while$ -- 105
 width$ -- 0
-write$ -- 819
-(There was 1 error message)
+write$ -- 153
+(There were 5 warnings)
