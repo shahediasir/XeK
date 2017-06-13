@@ -1,0 +1,878 @@
+% $ biblatex auxiliary file $
+% $ biblatex version 2.3 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated as
+% required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+\entry{anderson1995equations}{book}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Anderson}{A.}%
+     {Orson~L}{O.~L.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {Oxford University Press}%
+  }
+  \strng{namehash}{AOL1}
+  \strng{fullhash}{AOL1}
+  \field{sortinit}{A}
+  \field{title}{Equations of state of solids for geophysics and ceramic
+  science}
+  \field{year}{1995}
+\endentry
+
+\entry{anderson1970elastic}{article}{}
+  \name{author}{5}{}{%
+    {{}%
+     {Anderson}{A.}%
+     {Orson~L}{O.~L.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Scholz}{S.}%
+     {Christopher}{C.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Soga}{S.}%
+     {Naohiro}{N.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Warren}{W.}%
+     {Nicholas}{N.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Schreiber}{S.}%
+     {E}{E}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{AOL+1}
+  \strng{fullhash}{AOLSCSNWNSE1}
+  \field{sortinit}{A}
+  \field{pages}{1959}
+  \field{title}{Elastic properties of a micro-breccia, igneous rock and lunar
+  fines from Apollo 11 mission}
+  \field{volume}{1}
+  \field{journaltitle}{Geochimica et Cosmochimica Acta Supplement}
+  \field{year}{1970}
+\endentry
+
+\entry{auld1973acoustic}{book}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Auld}{A.}%
+     {Bertram~Alexander}{B.~A.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{2}{%
+    {John Wiley}%
+    {Sons}%
+  }
+  \strng{namehash}{ABA1}
+  \strng{fullhash}{ABA1}
+  \field{sortinit}{A}
+  \field{title}{Acoustic fields and waves in solids}
+  \field{volume}{1}
+  \field{year}{1973}
+\endentry
+
+\entry{bergman2011fundamentals}{book}{}
+  \name{author}{3}{}{%
+    {{}%
+     {Bergman}{B.}%
+     {Theodore~L}{T.~L.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Incropera}{I.}%
+     {Frank~P}{F.~P.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Lavine}{L.}%
+     {Adrienne~S}{A.~S.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {John Wiley \& Sons}%
+  }
+  \strng{namehash}{BTLIFPLAS1}
+  \strng{fullhash}{BTLIFPLAS1}
+  \field{sortinit}{B}
+  \field{title}{Fundamentals of heat and mass transfer}
+  \field{year}{2011}
+\endentry
+
+\entry{q_value_1}{misc}{}
+  \field{sortinit}{C}
+  \field{howpublished}{\url{http://physics.mines.edu/about/downloads/software/mpl/main.pdf}}
+  \field{note}{Accessed: 2014-03-13}
+  \field{title}{{Colorado School of mines,} Department of Physics}
+\endentry
+
+\entry{demarest1971cube}{article}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Demarest~Jr}{D.~J.}%
+     {Harold~H}{H.~H.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {Acoustical Society of America}%
+  }
+  \strng{namehash}{DJHH1}
+  \strng{fullhash}{DJHH1}
+  \field{sortinit}{D}
+  \field{number}{3B}
+  \field{pages}{768\bibrangedash 775}
+  \field{title}{Cube-Resonance Method to Determine the Elastic Constants of
+  Solids}
+  \field{volume}{49}
+  \field{journaltitle}{The Journal of the Acoustical Society of America}
+  \field{year}{1971}
+\endentry
+
+\entry{fraser1964novel}{article}{}
+  \name{author}{2}{}{%
+    {{}%
+     {Fraser}{F.}%
+     {DB}{D.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {LeCraw}{L.}%
+     {RC}{R.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {AIP Publishing}%
+  }
+  \strng{namehash}{FDLR1}
+  \strng{fullhash}{FDLR1}
+  \field{sortinit}{F}
+  \field{number}{9}
+  \field{pages}{1113\bibrangedash 1115}
+  \field{title}{Novel method of measuring elastic and anelastic properties of
+  solids}
+  \field{volume}{35}
+  \field{journaltitle}{Review of Scientific Instruments}
+  \field{year}{1964}
+\endentry
+
+\entry{gazis1958exact}{article}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Gazis}{G.}%
+     {Denos~C}{D.~C.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {Acoustical Society of America}%
+  }
+  \strng{namehash}{GDC1}
+  \strng{fullhash}{GDC1}
+  \field{sortinit}{G}
+  \field{number}{8}
+  \field{pages}{786\bibrangedash 794}
+  \field{title}{Exact Analysis of the Plane-Strain Vibrations of Thick-Walled
+  Hollow Cylinders}
+  \field{volume}{30}
+  \field{journaltitle}{The Journal of the Acoustical Society of America}
+  \field{year}{1958}
+\endentry
+
+\entry{gazis1959three}{article}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Gazis}{G.}%
+     {Denos~C}{D.~C.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {Acoustical Society of America}%
+  }
+  \strng{namehash}{GDC1}
+  \strng{fullhash}{GDC1}
+  \field{sortinit}{G}
+  \field{number}{5}
+  \field{pages}{568\bibrangedash 573}
+  \field{title}{Three-Dimensional Investigation of the Propagation of Waves in
+  Hollow Circular Cylinders. I. Analytical Foundation}
+  \field{volume}{31}
+  \field{journaltitle}{The journal of the Acoustical Society of America}
+  \field{year}{1959}
+\endentry
+
+\entry{hallion1983designers}{book}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Hallion}{H.}%
+     {Richard}{R.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {Time Life Education}%
+  }
+  \strng{namehash}{HR1}
+  \strng{fullhash}{HR1}
+  \field{sortinit}{H}
+  \field{title}{Designers and test pilots}
+  \field{year}{1983}
+\endentry
+
+\entry{heyliger1993elastic}{article}{}
+  \name{author}{5}{}{%
+    {{}%
+     {Heyliger}{H.}%
+     {Paul}{P.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Jilani}{J.}%
+     {Adel}{A.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Ledbetter}{L.}%
+     {Hassel}{H.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Leisure}{L.}%
+     {Robert~G}{R.~G.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Wang}{W.}%
+     {Ching-Ling}{C.-L.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {Acoustical Society of America}%
+  }
+  \strng{namehash}{HP+1}
+  \strng{fullhash}{HPJALHLRGWCL1}
+  \field{sortinit}{H}
+  \field{number}{3}
+  \field{pages}{1482\bibrangedash 1487}
+  \field{title}{Elastic constants of isotropic cylinders using resonant
+  ultrasound}
+  \field{volume}{94}
+  \field{journaltitle}{The Journal of the Acoustical Society of America}
+  \field{year}{1993}
+\endentry
+
+\entry{hoppe1871vibrationen}{article}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Hoppe}{H.}%
+     {R}{R}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{HR2}
+  \strng{fullhash}{HR2}
+  \field{sortinit}{H}
+  \field{pages}{158\bibrangedash 170}
+  \field{title}{Vibrationen eines Ringes in seiner Ebene.}
+  \field{volume}{73}
+  \field{journaltitle}{Journal f{\"u}r die reine und angewandte Mathematik}
+  \field{year}{1871}
+\endentry
+
+\entry{annemarie}{thesis}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Hoyer}{H.}%
+     {Annemarie}{A.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{HA1}
+  \strng{fullhash}{HA1}
+  \field{sortinit}{H}
+  \field{title}{An Investigative Approach to Explore optimum assembly Process
+  Design for Annular Targets Carrying LEU Foil}
+  \list{institution}{1}{%
+    {University of Missorui-Columbia}%
+  }
+  \field{type}{mathesis}
+  \field{year}{2013}
+\endentry
+
+\entry{jaglinski2011use}{article}{}
+  \name{author}{2}{}{%
+    {{}%
+     {Jaglinski}{J.}%
+     {Tim}{T.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Wang}{W.}%
+     {Yun-Che}{Y.-C.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {Acoustical Society of America}%
+  }
+  \strng{namehash}{JTWYC1}
+  \strng{fullhash}{JTWYC1}
+  \field{sortinit}{J}
+  \field{number}{4}
+  \field{pages}{1890\bibrangedash 1898}
+  \field{title}{On the use of hollow tube geometries for resonant ultrasound
+  spectroscopy}
+  \field{volume}{129}
+  \field{journaltitle}{The Journal of the Acoustical Society of America}
+  \field{year}{2011}
+\endentry
+
+\entry{lamb1881vibrations}{article}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Lamb}{L.}%
+     {Horace}{H.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {Oxford University Press}%
+  }
+  \strng{namehash}{LH1}
+  \strng{fullhash}{LH1}
+  \field{sortinit}{L}
+  \field{number}{1}
+  \field{pages}{189\bibrangedash 212}
+  \field{title}{On the vibrations of an elastic sphere}
+  \field{volume}{1}
+  \field{journaltitle}{Proceedings of the London Mathematical Society}
+  \field{year}{1881}
+\endentry
+
+\entry{li2008acoustic}{article}{}
+  \name{author}{3}{}{%
+    {{}%
+     {Li}{L.}%
+     {Guangyan}{G.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Lamberton~Jr}{L.~J.}%
+     {GA}{G.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Gladden}{G.}%
+     {JR}{J.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {AIP Publishing}%
+  }
+  \strng{namehash}{LGLJGGJ1}
+  \strng{fullhash}{LGLJGGJ1}
+  \field{sortinit}{L}
+  \field{number}{3}
+  \field{pages}{033524}
+  \field{title}{Acoustic modes of finite length homogeneous and layered
+  cylindrical shells: Single and multiwall carbon nanotubes}
+  \field{volume}{104}
+  \field{journaltitle}{Journal of Applied Physics}
+  \field{year}{2008}
+\endentry
+
+\entry{litwiller2000resonant}{misc}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Litwiller}{L.}%
+     {RG}{R.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {Iowa State University}%
+  }
+  \strng{namehash}{LR1}
+  \strng{fullhash}{LR1}
+  \field{sortinit}{L}
+  \field{title}{Resonant Ultrasound Spectroscopy and the Elastic Properties of
+  Several Selected Materials}
+  \field{year}{2000}
+\endentry
+
+\entry{liu2012measuring}{article}{}
+  \name{author}{2}{}{%
+    {{}%
+     {Liu}{L.}%
+     {Guoxing}{G.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Maynard}{M.}%
+     {JD}{J.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {Acoustical Society of America}%
+  }
+  \strng{namehash}{LGMJ1}
+  \strng{fullhash}{LGMJ1}
+  \field{sortinit}{L}
+  \field{number}{3}
+  \field{pages}{2068\bibrangedash 2078}
+  \field{title}{Measuring elastic constants of arbitrarily shaped samples using
+  resonant ultrasound spectroscopy}
+  \field{volume}{131}
+  \field{journaltitle}{The Journal of the Acoustical Society of America}
+  \field{year}{2012}
+\endentry
+
+\entry{love2013treatise}{book}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Love}{L.}%
+     {Augustus Edward~Hough}{A.~E.~H.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {Cambridge University Press}%
+  }
+  \strng{namehash}{LAEH1}
+  \strng{fullhash}{LAEH1}
+  \field{sortinit}{L}
+  \field{title}{A treatise on the mathematical theory of elasticity}
+  \field{year}{2013}
+\endentry
+
+\entry{madhusudana1996thermal}{book}{}
+  \name{author}{2}{}{%
+    {{}%
+     {Madhusudana}{M.}%
+     {Chakravarti~V}{C.~V.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Madhusudana}{M.}%
+     {CV}{C.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {Springer}%
+  }
+  \strng{namehash}{MCVMC1}
+  \strng{fullhash}{MCVMC1}
+  \field{sortinit}{M}
+  \field{title}{Thermal contact conductance}
+  \field{year}{1996}
+\endentry
+
+\entry{mahan2002oscillations}{article}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Mahan}{M.}%
+     {GD}{G.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {APS}%
+  }
+  \strng{namehash}{MG1}
+  \strng{fullhash}{MG1}
+  \field{sortinit}{M}
+  \field{number}{23}
+  \field{pages}{235402}
+  \field{title}{Oscillations of a thin hollow cylinder: carbon nanotubes}
+  \field{volume}{65}
+  \field{journaltitle}{Physical Review B}
+  \field{year}{2002}
+\endentry
+
+\entry{philip}{thesis}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Makarewicz}{M.}%
+     {Philip~Franklin}{P.~F.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{MPF1}
+  \strng{fullhash}{MPF1}
+  \field{sortinit}{M}
+  \field{title}{Thermal,Mechanical,Hydraulic Experimental Tools for
+  Molybdenum-99 Production Target Analysis}
+  \list{institution}{1}{%
+    {University of Missouri-Columbia}%
+  }
+  \field{type}{mathesis}
+  \field{year}{2013}
+\endentry
+
+\entry{maynard2008resonant}{article}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Maynard}{M.}%
+     {Julian}{J.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {American Institute of Physics}%
+  }
+  \strng{namehash}{MJ1}
+  \strng{fullhash}{MJ1}
+  \field{sortinit}{M}
+  \field{number}{1}
+  \field{pages}{26\bibrangedash 31}
+  \field{title}{Resonant ultrasound spectroscopy}
+  \field{volume}{49}
+  \field{journaltitle}{Physics Today}
+  \field{year}{2008}
+\endentry
+
+\entry{migliori1996resonant}{article}{}
+  \name{author}{2}{}{%
+    {{}%
+     {Migliori}{M.}%
+     {Albert}{A.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Darling}{D.}%
+     {Timothy~W}{T.~W.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {Elsevier}%
+  }
+  \strng{namehash}{MADTW1}
+  \strng{fullhash}{MADTW1}
+  \field{sortinit}{M}
+  \field{number}{2}
+  \field{pages}{473\bibrangedash 476}
+  \field{title}{Resonant ultrasound spectroscopy for materials studies and
+  non-destructive testing}
+  \field{volume}{34}
+  \field{journaltitle}{Ultrasonics}
+  \field{year}{1996}
+\endentry
+
+\entry{rusbook}{book}{}
+  \name{author}{2}{}{%
+    {{}%
+     {Migliori}{M.}%
+     {Albert}{A.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Sarrao}{S.}%
+     {John~L}{J.~L.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {Wiley-Interscience}%
+  }
+  \strng{namehash}{MASJL1}
+  \strng{fullhash}{MASJL1}
+  \field{sortinit}{M}
+  \field{title}{Resonant ultrasound spectroscopy: applications to physics,
+  materials measurements, and nondestructive evaluation}
+  \field{year}{1997}
+\endentry
+
+\entry{ohno1976free}{article}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Ohno}{O.}%
+     {Ichiro}{I.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{OI1}
+  \strng{fullhash}{OI1}
+  \field{sortinit}{O}
+  \field{number}{4}
+  \field{pages}{355\bibrangedash 379}
+  \field{title}{Free vibration of a rectangular parallelepiped crystal and its
+  application to determination of elastic constants of orthorhombic crystals.}
+  \field{volume}{24}
+  \field{journaltitle}{Journal of Physics of the Earth}
+  \field{year}{1976}
+\endentry
+
+\entry{plesek2004using}{article}{}
+  \name{author}{3}{}{%
+    {{}%
+     {Plesek}{P.}%
+     {Jiri}{J.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Kolman}{K.}%
+     {Radek}{R.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Landa}{L.}%
+     {Michal}{M.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {Acoustical Society of America}%
+  }
+  \strng{namehash}{PJKRLM1}
+  \strng{fullhash}{PJKRLM1}
+  \field{sortinit}{P}
+  \field{number}{1}
+  \field{pages}{282\bibrangedash 287}
+  \field{title}{Using finite element method for the determination of elastic
+  moduli by resonant ultrasound spectroscopy}
+  \field{volume}{116}
+  \field{journaltitle}{The Journal of the Acoustical Society of America}
+  \field{year}{2004}
+\endentry
+
+\entry{pochhammer1876ueber}{article}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Pochhammer}{P.}%
+     {Lt}{L.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{PL1}
+  \strng{fullhash}{PL1}
+  \field{sortinit}{P}
+  \field{pages}{324\bibrangedash 336}
+  \field{title}{Ueber die Fortpflanzungsgeschwindigkeiten kleiner Schwingungen
+  in einem unbegrenzten isotropen Kreiscylinder.}
+  \field{volume}{81}
+  \field{journaltitle}{Journal f{\"u}r die reine und angewandte Mathematik}
+  \field{year}{1876}
+\endentry
+
+\entry{preumont2013twelve}{book}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Preumont}{P.}%
+     {Andr{\'e}}{A.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {Springer}%
+  }
+  \strng{namehash}{PA1}
+  \strng{fullhash}{PA1}
+  \field{sortinit}{P}
+  \field{title}{Twelve lectures on structural dynamics}
+  \field{year}{2013}
+\endentry
+
+\entry{rayleigh1888free}{article}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Rayleigh}{R.}%
+     {Lord}{L.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {Oxford University Press}%
+  }
+  \strng{namehash}{RL1}
+  \strng{fullhash}{RL1}
+  \field{sortinit}{R}
+  \field{number}{1}
+  \field{pages}{225\bibrangedash 237}
+  \field{title}{On the free vibrations of an infinite plate of homogeneous
+  isotropic elastic matter}
+  \field{volume}{1}
+  \field{journaltitle}{Proceedings of the London Mathematical Society}
+  \field{year}{1888}
+\endentry
+
+\entry{song1988relative}{article}{}
+  \name{author}{2}{}{%
+    {{}%
+     {Song}{S.}%
+     {S}{S}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Yovanovich}{Y.}%
+     {M}{M}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{SSYM1}
+  \strng{fullhash}{SSYM1}
+  \field{sortinit}{S}
+  \field{number}{1}
+  \field{pages}{43\bibrangedash 47}
+  \field{title}{Relative contact pressure-Dependence on surface roughness and
+  Vickers microhardness}
+  \field{volume}{2}
+  \field{journaltitle}{Journal of thermophysics and heat transfer}
+  \field{year}{1988}
+\endentry
+
+\entry{visscher1991normal}{article}{}
+  \name{author}{4}{}{%
+    {{}%
+     {Visscher}{V.}%
+     {William~M}{W.~M.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Migliori}{M.}%
+     {Albert}{A.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Bell}{B.}%
+     {Thomas~M}{T.~M.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Reinert}{R.}%
+     {Robert~A}{R.~A.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {Acoustical Society of America}%
+  }
+  \strng{namehash}{VWM+1}
+  \strng{fullhash}{VWMMABTMRRA1}
+  \field{sortinit}{V}
+  \field{number}{4}
+  \field{pages}{2154\bibrangedash 2162}
+  \field{title}{On the normal modes of free vibration of inhomogeneous and
+  anisotropic elastic objects}
+  \field{volume}{90}
+  \field{journaltitle}{The Journal of the Acoustical Society of America}
+  \field{year}{1991}
+\endentry
+
+\entry{wang2003resonant}{article}{}
+  \name{author}{2}{}{%
+    {{}%
+     {Wang}{W.}%
+     {Yun-Che}{Y.-C.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Lakes}{L.}%
+     {Roderic~S}{R.~S.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {AIP Publishing}%
+  }
+  \strng{namehash}{WYCLRS1}
+  \strng{fullhash}{WYCLRS1}
+  \field{sortinit}{W}
+  \field{number}{3}
+  \field{pages}{1371\bibrangedash 1373}
+  \field{title}{Resonant ultrasound spectroscopy in shear mode}
+  \field{volume}{74}
+  \field{journaltitle}{Review of scientific instruments}
+  \field{year}{2003}
+\endentry
+
+\entry{zadler2004resonant}{article}{}
+  \name{author}{4}{}{%
+    {{}%
+     {Zadler}{Z.}%
+     {Brian~J}{B.~J.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Le~Rousseau}{L.~R.}%
+     {J{\'e}r{\^o}me~HL}{J.~H.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Scales}{S.}%
+     {John~A}{J.~A.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Smith}{S.}%
+     {Martin~L}{M.~L.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {Oxford University Press}%
+  }
+  \strng{namehash}{ZBJ+1}
+  \strng{fullhash}{ZBJLRJHSJASML1}
+  \field{sortinit}{Z}
+  \field{number}{1}
+  \field{pages}{154\bibrangedash 169}
+  \field{title}{Resonant ultrasound spectroscopy: theory and application}
+  \field{volume}{156}
+  \field{journaltitle}{Geophysical Journal International}
+  \field{year}{2004}
+\endentry
+
+\entry{zadler}{thesis}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Zadlert}{Z.}%
+     {Brian}{B.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{ZB1}
+  \strng{fullhash}{ZB1}
+  \field{sortinit}{Z}
+  \field{title}{{Properties of elastic materials using contacting and
+  non-contacting acoustic spectrocopy}}
+  \list{institution}{1}{%
+    {Colorado School of Mines}%
+  }
+  \field{type}{phdthesis}
+  \field{year}{2005}
+\endentry
+
+\lossort
+\endlossort
+
+\endinput

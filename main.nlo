@@ -1,0 +1,52 @@
+\nomenclatureentry{a$C_{ijkl}$@[{$C_{ijkl}$}]\begingroup stiffness tensor\nomeqref {2.0}|nompageref}{5}
+\nomenclatureentry{a\textbf{u}@[{\textbf{u}}]\begingroup displacement vector\nomeqref {2.0}|nompageref}{5}
+\nomenclatureentry{a\textbf{s}@[{\textbf{s}}]\begingroup surface vector\nomeqref {2.0}|nompageref}{5}
+\nomenclatureentry{a$\omega$@[{$\omega$}]\begingroup angular frequency\nomeqref {2.0}|nompageref}{5}
+\nomenclatureentry{a$V$@[{$V$}]\begingroup volume\nomeqref {2.0}|nompageref}{5}
+\nomenclatureentry{a$\mathcal{S}$@[{$\mathcal{S}$}]\begingroup free surface\nomeqref {2.0}|nompageref}{5}
+\nomenclatureentry{a$\Re$@[{$\Re$}]\begingroup real number\nomeqref {2.1}|nompageref}{5}
+\nomenclatureentry{a$\mathcal{L}$@[{$\mathcal{L}$}]\begingroup Lagrangian\nomeqref {2.2}|nompageref}{6}
+\nomenclatureentry{a$E_k$@[{$E_k$}]\begingroup kinetic energy\nomeqref {2.2}|nompageref}{6}
+\nomenclatureentry{a$E_p$@[{$E_p$}]\begingroup potential energy\nomeqref {2.2}|nompageref}{6}
+\nomenclatureentry{a$\eta$@[{$\eta$}]\begingroup unit vector normal to surface\nomeqref {2.13}|nompageref}{7}
+\nomenclatureentry{a$\sigma_{ij}$@[{$\sigma_{ij}$}]\begingroup stress component\nomeqref {2.13}|nompageref}{7}
+\nomenclatureentry{a$a_{i\lambda}$@[{$a_{i\lambda}$}]\begingroup generalized constant\nomeqref {2.14}|nompageref}{8}
+\nomenclatureentry{a$\Phi_\lambda$@[{$\Phi_\lambda$}]\begingroup shape function\nomeqref {2.14}|nompageref}{8}
+\nomenclatureentry{a$\lambda$@[{$\lambda$}]\begingroup basis set, Lam\'e constant\nomeqref {2.14}|nompageref}{8}
+\nomenclatureentry{a$\mathbb{Z}^+$@[{$\mathbb{Z}^+$}]\begingroup positive integer\nomeqref {2.15}|nompageref}{8}
+\nomenclatureentry{a$\delta_{ii'}$@[{$\delta_{ii'}$}]\begingroup Kronecker delta\nomeqref {2.20}|nompageref}{9}
+\nomenclatureentry{a$\Gamma$@[{$\Gamma$}]\begingroup stiffness matrix\nomeqref {2.22}|nompageref}{10}
+\nomenclatureentry{a$d_1,d_2,d_3$@[{$d_1,d_2,d_3$}]\begingroup sides of a rectangular parallelepiped\nomeqref {2.30}|nompageref}{13}
+\nomenclatureentry{a$\epsilon_{ij}$@[{$\epsilon_{ij}$}]\begingroup strain tensor\nomeqref {2.38}|nompageref}{17}
+\nomenclatureentry{a$\mu$@[{$\mu$}]\begingroup Lam\'e constant\nomeqref {2.40}|nompageref}{19}
+\nomenclatureentry{a$\mathcal{S}_{ijkl}$@[{$\mathcal{S}_{ijkl}$}]\begingroup complience constants\nomeqref {2.42}|nompageref}{19}
+\nomenclatureentry{a$p$@[{$p$}]\begingroup pressure\nomeqref {2.44}|nompageref}{21}
+\nomenclatureentry{a$A$@[{$A$}]\begingroup Area\nomeqref {2.44}|nompageref}{21}
+\nomenclatureentry{a$f_{torsion}$@[{$f_{torsion}$}]\begingroup torsional frequency\nomeqref {2.48}|nompageref}{23}
+\nomenclatureentry{a$k_{sh}$@[{$k_{sh}$}]\begingroup shape factor\nomeqref {2.48}|nompageref}{23}
+\nomenclatureentry{a$L$@[{$L$}]\begingroup length\nomeqref {2.48}|nompageref}{23}
+\nomenclatureentry{a$f_{flex}$@[{$f_{flex}$}]\begingroup flexural vibration frequency\nomeqref {2.48}|nompageref}{23}
+\nomenclatureentry{a$n$@[{$n$}]\begingroup wave length on the circumference\nomeqref {2.48}|nompageref}{23}
+\nomenclatureentry{a$a$@[{$a$}]\begingroup center line radius of the ring\nomeqref {2.48}|nompageref}{23}
+\nomenclatureentry{a$c$@[{$c$}]\begingroup radius of the cross-section\nomeqref {2.48}|nompageref}{23}
+\nomenclatureentry{a$h$@[{$h$}]\begingroup tube wall thickness\nomeqref {2.48}|nompageref}{23}
+\nomenclatureentry{a$f_{ext}$@[{$f_{ext}$}]\begingroup extensional vibration frequency\nomeqref {2.48}|nompageref}{23}
+\nomenclatureentry{a$D$@[{$D$}]\begingroup diameter\nomeqref {3.5}|nompageref}{32}
+\nomenclatureentry{a$F$@[{$F$}]\begingroup flexural\nomeqref {3.5}|nompageref}{32}
+\nomenclatureentry{a$FB$@[{$FB$}]\begingroup flexura bending\nomeqref {3.5}|nompageref}{32}
+\nomenclatureentry{a$S$@[{$S$}]\begingroup longitudinal shearing\nomeqref {3.5}|nompageref}{32}
+\nomenclatureentry{a$LB$@[{$LB$}]\begingroup longitudinal bending\nomeqref {3.5}|nompageref}{32}
+\nomenclatureentry{a$B$@[{$B$}]\begingroup barreling\nomeqref {3.5}|nompageref}{32}
+\nomenclatureentry{a$T$@[{$T$}]\begingroup torsional\nomeqref {3.5}|nompageref}{32}
+\nomenclatureentry{a$SA$@[{$SA$}]\begingroup symmetric axial\nomeqref {3.5}|nompageref}{32}
+\nomenclatureentry{a$\Lambda$@[{$\Lambda$}]\begingroup inner to outer diameter ratio\nomeqref {3.5}|nompageref}{32}
+\nomenclatureentry{a$f_0$@[{$f_0$}]\begingroup first torsional mode\nomeqref {3.5}|nompageref}{32}
+\nomenclatureentry{a$q^{''}$@[{$q^{''}$}]\begingroup heat transfer\nomeqref {5.1}|nompageref}{41}
+\nomenclatureentry{a$R$@[{$R$}]\begingroup thermal contact resistance\nomeqref {5.2}|nompageref}{41}
+\nomenclatureentry{a$P$@[{$P$}]\begingroup applied pressure\nomeqref {5.2}|nompageref}{42}
+\nomenclatureentry{a$H_c$@[{$H_c$}]\begingroup contact microhardness, MPa\nomeqref {5.2}|nompageref}{42}
+\nomenclatureentry{a$\sigma$@[{$\sigma$}]\begingroup RMS surface roughness\nomeqref {5.2}|nompageref}{42}
+\nomenclatureentry{a$c_2$@[{$c_2$}]\begingroup Vickers correlation coefficient\nomeqref {5.2}|nompageref}{42}
+\nomenclatureentry{a$k$@[{$k$}]\begingroup harmonic mean conductivities\nomeqref {5.2}|nompageref}{42}
+\nomenclatureentry{a$h_c$@[{$h_c$}]\begingroup contact conductance, $W/m^2K$ \nomeqref {5.2}|nompageref}{42}
+\nomenclatureentry{a$tan\theta$@[{$tan\theta$}]\begingroup mean absolute slope of the surface profile\nomeqref {5.2}|nompageref}{42}

@@ -1,0 +1,78 @@
+% $ biblatex auxiliary file $
+% $ biblatex version 2.3 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated as
+% required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+\entry{jaglinski2011resonant}{article}{}
+  \name{author}{2}{}{%
+    {{}%
+     {Jaglinski}{J.}%
+     {Tim}{T.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Lakes}{L.}%
+     {Roderic~S}{R.~S.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {AIP Publishing}%
+  }
+  \strng{namehash}{JTLRS1}
+  \strng{fullhash}{JTLRS1}
+  \field{sortinit}{J}
+  \field{number}{3}
+  \field{pages}{035105}
+  \field{title}{Resonant ultrasound spectroscopy of cylinders over the full
+  range of Poisson's ratio}
+  \field{volume}{82}
+  \field{journaltitle}{Review of Scientific Instruments}
+  \field{year}{2011}
+\endentry
+
+\entry{jaglinski2011use}{article}{}
+  \name{author}{2}{}{%
+    {{}%
+     {Jaglinski}{J.}%
+     {Tim}{T.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Wang}{W.}%
+     {Yun-Che}{Y.-C.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {Acoustical Society of America}%
+  }
+  \strng{namehash}{JTWYC1}
+  \strng{fullhash}{JTWYC1}
+  \field{sortinit}{J}
+  \field{number}{4}
+  \field{pages}{1890\bibrangedash 1898}
+  \field{title}{On the use of hollow tube geometries for resonant ultrasound
+  spectroscopy}
+  \field{volume}{129}
+  \field{journaltitle}{The Journal of the Acoustical Society of America}
+  \field{year}{2011}
+\endentry
+
+\lossort
+\endlossort
+
+\endinput

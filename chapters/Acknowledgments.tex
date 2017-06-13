@@ -1,0 +1,193 @@
+\begin{doublespacing}
+\section{Thermal Contact Resistance}
+When two bodies come in contact, heat flows from the hotter to the colder body. A temperature difference is observed at the interface between the two surfaces in contact. The magnitude of the temperature drop is related to the \textit{thermal contact resistance} between the contacting surfaces. Thermal contact resistance is an effect due to surface roughness causing a temperature drop across the interface. These surface irregularities creates intermittent points of contact and air gap in the interface. The heat transfer is actually governed by both the conduction through the contact spots and conduction or convection/radiation across the gaps.
+\begin{figure}[H]
+\centering
+\includegraphics[scale=0.45]{contact_resistance}
+\caption{Temperature drop due to thermal contact resistance}
+\label{fig_contact_res}
+\end{figure}
+
+ \begin{equation}
+ q_x^{''} = q_{contact}^{''} + q_{gap}^{''}
+ \end{equation}
+ \nomenclature{$q^{''}$}{heat transfer}
+ 
+ Where $q_x^{''}$ is total heat transfer across the contacting surfaces. Figure \ref{fig_contact_res} shows temperature drop across the contact surface\cite{bergman2011fundamentals}. Thermal contact resistance is a function of the temperature difference due to surface imperfection and the heat transfer rate. This relationship can be shown in the following way.
+ 
+\begin{equation}
+\label{eq_contact_res}
+R=\frac{\Delta T}{q_{x}^{''}}
+\end{equation}
+\nomenclature{$R$}{thermal contact resistance}
+
+Where R is the thermal contact resistance and $\Delta T$ is the temperature difference across the interface of the two surfaces.
+
+\section{Contact Pressure}
+As discussed in the previous section heat transfer through the interfaces formed by the mechanical contact of two solids occurs in three forms: conduction through contacting spots, conduction through the gas-filled voids and radiation. In normal situations, radiation effects are small compared to the other two parameters. Another geometric parameter that controls the heat transfer through the contacting spots is the ratio of actual to apparent areas of contact. This ratio is called \textit{contact pressure} which is determined by \textit{relative contact pressure}. The relative contact pressure is defined as the ratio of applied pressure to the contact microhardness$(P/H_c)$. This relative contact pressure also plays an important role in the thickness of the air gap between the contacting interfaces. The ratio $P/H_c$ controls three geometric factors that control the heat transfer: contact spot density, mean contact spot radius, and separation distance of the mean planes of the two contacting surfaces \cite{song1988relative}. Contact microhardenss, $H_c$, depends on several parameters: mean surface roughness, method of surface preparation and applied pressure. An explicit relation was found in reference \cite{song1988relative} for the relative contact pressure 
+\nomenclature{$P$}{applied pressure}
+\nomenclature{$H_c$}{contact microhardness, MPa}
+\nomenclature{$\sigma$}{RMS surface roughness}
+\nomenclature{$c_2$}{Vickers correlation coefficient}
+\nomenclature{$k$}{harmonic mean conductivities}
+\nomenclature{$h_c$}{contact conductance, $W/m^2K$ }
+\nomenclature{$tan\theta$}{mean absolute slope of the surface profile}
+
+\begin{equation}
+\label{eq_contact_pres}
+\frac{P}{H_c} = \left[\frac{P}{(1.62\times10^6 \sigma/m)^{c_2}} \right ]^\frac{1}{1+.071c_2}
+\end{equation}
+Here $\sigma$ is the RMS surface roughness and $c_2$ is the Vickers correlation coefficients.
+
+
+\begin{figure}[H]
+\centering
+\includegraphics[scale=0.4]{contact_pressure}
+\caption{Magnified profile of two surfaces in contact with changing contact pressure(A)less contact pressure (B)higher contact pressure}
+\label{fig_contact_pressure}
+\end{figure}
+
+Figure \ref{fig_contact_pressure} shows the change of contacting surface based on the contact pressure. Consequently it will also change the thermal contact resistance. In the context of Molybdenum-99 targets contact pressure plays an important role in design \cite{philip}, and choosing appropriate forming pressure. Reducing the contact resistance is one of the major challenges of designing the target. Low contact resistance will help to remove heat throughout the irradiation process  which is necessary for the safety of the target. It is not possible to experimentally determine the actual contact pressure between the surfaces. For plastically deformed surfaces Yovanovich \cite{madhusudana1996thermal} proposed the following correlation for thermal contact conductance :
+
+\begin{equation}
+\label{eq_yavonovich}
+\frac{h_c \sigma}{k tan\theta} = 1.25 \left( \frac{P}{H_c}\right)^{0.95}
+\end{equation}
+Here $h_c$ is solid spot conductance, $tan\theta$ is the mean absolute slope for the surface profile and k is the harmonic mean conductivities of the two contacting surfaces.
+
+
+%Yovanovich et el \cite{yo6novich1982surface} developed an %implicit geometric model that relates relative contact pressure %with surface roughness. For plastically deforming asperities %whose 
+
+
+\section{Experiment}
+\subsection{Target Assembly}
+This particular experiment was designed to investigate the effect of different contact pressures effect on the RUS spectrum. To characterize the contact pressure between two concentric cylinders, three different targets were made using three different draw plug sizes without any foil. Since three different plug sizes were used to make three different targets, the contact pressures are different in each target. The draw plug assembly procedure was used to make the targets (Figure \ref{draw_plug}). The draw plug target manufacturing method or drawing process uses a die and plug to mechanically expand the inner tube while holding the outer tube in steady. The two aluminum tubes cut to a specified length are pre-manufactured (with proper tolerance) so that inner tube can slide freely into the outer tube. 
+
+Once the tubes have been slid together, they are placed in a die that confines the outer tube in the drawing process. A hydraulically driven rod with a plug attached to the end is then forced through the inner tube. The size of the plug is important because it deforms the inner tube plastically, and thus reduces the gape between the two cylinders. Increasing the plug size will increase the deformation that occurs in the inner tube (aluminum) leading to an increase in contact pressure. Figure \ref{draw_plug} shows the draw pug set up for target manufacturing. 
+%...........put a picture in this spot
+
+\begin{figure}[H]
+\centering
+\includegraphics[scale=0.7]{drawplug_1} 
+\caption{Draw plug Rig }  
+\label{draw_plug} 
+\end{figure}
+
+As mentioned earlier, the inner tube deforms plastically as the plug is drawn though.  The outer tube deforms elastically. During the manual process of drawing the plug through the inner tube, the formation (drawing) pressure was recorded. This is the required pressure to drive the plug through the target which is not an actual forming pressure, but it provides a qualitative idea about the deformation. Higher forming pressure means higher deformation.
+
+\begin{table}[H]
+\caption{Weights of the three different targets}
+\centering
+\begin{tabular}{c|c|c|c}
+\hline\hline
+ Draw plug ID & Plug Outer Diameter (m) & Tube Length (m) & Target Mass (g)  \\
+\hline
+ 48 & 0.02662 & 0.161 & 61.470 \\
+ \hline
+ 49 & 0.02664 & 0.161 & 60.942 \\
+ \hline
+ 50 & 0.02667 & 0.161 & 61.213 \\
+ \hline
+\end{tabular}
+\label{plug_mass}
+\end{table}
+
+ \begin{figure}[H]
+ \centering
+ \includegraphics[scale=0.5]{tubes_target_bfore}
+ \caption{a)Inner and Outer tubes together b)Two concentric cylinders before deformation c)After assembling the target}
+ \label{fig_tubes_target}
+ \end{figure}
+
+ Forming pressure for the two plugs (48 and 50 ) is shown in Figure \ref{p_48_50}. As  can be seen from the plot that forming pressures are also different for different plugs along the distance of the target, but they have a similar  trend. At the beginning of the process the required pressure is higher. 
+
+\begin{figure}[H]
+\centering
+\includegraphics[scale=0.7]{plug_48_fig}
+\caption{Dimensions(inches) of a draw plug(48)}
+\label{fig_plug48}
+\end{figure}
+
+
+ 
+ 
+\begin{figure}[H]
+	\subfloat[ plug 48 \label{p_48}]{%
+	  \includegraphics[scale=0.6]{p_48_psi}}
+	\hfill
+	\subfloat[plug 50 \label{p_50}]{%
+	 \includegraphics[scale=0.6]{p_50_psi}
+	}
+	\caption{Plot of pressure during swagging using two different plug sizes}
+	\label{p_48_50}
+\end{figure}
+
+\newpage
+\subsection{Results}
+
+The purpose of this experiment was to detect variations in RUS spectrum in different contact pressures which is related to thermal contact resistance. Since three different draw plugs were used (plug 48, 49 and 50), it is assumed that the targets have three different contact pressures. The outer  diameter of the plugs are shown in Table \ref{plug_mass}. 
+
+ To evaluate the RUS responses of the targets, the spectrum of the individual tube (inner and outer) is studied. The spectrum of the outer tube is shown in Figure \ref{outer_tube}. The inner tube also shows the same type of response (Figure \ref{fig_inner_tube}). All three tubes show a similar pattern. At around $8.3\times10^5$ Hz there is a response around $0.9\times10^{-4}$ volts. The amplitude of the peaks is considered for this experiment. Since the geometry is a hollow cylindrical and the mass is constant before and after making the target, the only variable will be the amplitude.
+
+
+\begin{figure}[H]
+\centering
+\includegraphics[scale=0.8]{outer_tube} 
+\caption{RUS spectrum of the outer tube}  
+\label{outer_tube} 
+\end{figure}
+The diameter of the plug varies from $0.02662$ m to $0.02667$ m . These different plug sizes will exert different pressures in the inner tubes. As the plug size increases, it will cause more plastic deformation on the inner tube. 
+Given the sizes of the plugs it is assumed that only the inner tube is plastically deformed \cite{annemarie}. Outer tube's deformation is elastic.  Mass of the object plays an important role in response of the of the amplitude. The masses of the three different targets are in Table \ref{plug_mass} . \\[0.5 in]
+
+
+
+\begin{figure}[H]
+\centering
+\includegraphics[scale=0.5]{all_inner_tube}
+\caption{RUS spectrum of the inner tube}
+\label{fig_inner_tube}
+\end{figure}
+
+The experimental findings of the RUS of the three different assembled targets are shown in Figure \ref{target_rus}. \\[0.3 in]
+\begin{figure}[H]
+\centering
+\includegraphics[scale=0.5]{3plut_plot_different_plug} 
+\caption{RUS spectrum of the targets}  
+\label{target_rus} 
+\end{figure}
+
+Figure \ref{target_rus} shows the RUS response for three different targets. The frequency range that we are interested in is $6.5$ to $10\times Hz$. In this frequency range the amplitudes vary significantly. The result can be summarized in Table \ref{amplitude_plug}.  \\[0.3 in]
+\begin{table}[H]
+\caption{Highest amplitudes in the interested frequency zone }
+\centering
+\begin{tabular}{c|c|c}
+\hline\hline
+Draw plug size & frequency range $(\times 10^5) Hz$ & Amplitude $(V_{rms}\times 10^{-5}) volts$\\
+\hline
+48 & 6.5-9 & 1 \\
+49 & 6-10 & 3.5 \\
+50 & 6-10 & 5 \\
+\hline
+\end{tabular}
+\label{amplitude_plug}
+\end{table}
+
+
+
+The differences in the amplitudes of spectrum can be explained using the contact pressure between the two cylinders. Since the inner tube plastically deformed with three different radii, contact pressures are different in these targets. The RUS setup used to excite and measure the frequency spectrum is same as Figure \ref{rus_setup}. As the draw plug size increases the response amplitudes increases. From Figure \ref{rus_setup}, only the outer tube is excited and the receiving transducers are receiving signals from the outer tube. Since the masses of these targets are almost the same (Table \ref{plug_mass}), the amplitude depends on the modes that are being produced. Since aluminum is used for both inner and outer tube, surface roughness does not change for the deformed targets. The only variable that can influence the response in RUS has to be \textit{contact pressure} (Equation \ref{eq_yavonovich}). 
+
+%If the contact pressure is low, the inner tube will damp the %vibration of the outer tube. If they are pressed tightly, their %resonance amplitude will not diminish as much, as can be seen %from the experiment. The reproducibility of the spectrum of the %targets was also studied.
+
+\begin{figure}[H]
+%\centering
+\includegraphics[scale=0.4]{3tubes_plot}
+\caption{RUS spectra of outer tube, inner tube and one of the targets}
+\label{fig_3_diff_tubes}
+\end{figure}
+
+Figure \ref{fig_3_diff_tubes} shows that outer tube has a response around $1\times 10^{-4} V$ and the inner is around $0.8 \times 10^{-4} V$. When they are pressed together with draw plug 49, the response reduced to around $0.4\times 10^{-4} V$ . All the individual tubes' (inner and outer) response were examined before they were deformed to a target. 
+
+
+
+\end{doublespacing}
+

@@ -1,0 +1,67 @@
+This is BibTeX, Version 0.99d (TeX Live 2014)
+Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
+The top-level auxiliary file: main.aux
+The style file: biblatex.bst
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated wiz_functions (elt_size=4) to 6000 items from 3000.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated field_info (elt_size=4) to 10004 items from 5000.
+Database file #1: main-blx.bib
+Database file #2: reference.bib
+Repeated entry---line 109 of file reference.bib
+ : @article{jaglinski2011use
+ :                          ,
+I'm skipping whatever remains of this entry
+Biblatex version: 2.8
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated wiz_functions (elt_size=4) to 9000 items from 6000.
+You've used 36 entries,
+            6047 wiz_defined-function locations,
+            1328 strings with 13443 characters,
+and the built_in function-call counts, 121527 in all, are:
+= -- 5825
+> -- 3930
+< -- 1487
++ -- 1447
+- -- 1185
+* -- 7697
+:= -- 6677
+add.period$ -- 0
+call.type$ -- 36
+change.case$ -- 985
+chr.to.int$ -- 34
+cite$ -- 70
+duplicate$ -- 13518
+empty$ -- 12446
+format.name$ -- 2135
+if$ -- 28352
+int.to.chr$ -- 0
+int.to.str$ -- 102
+missing$ -- 0
+newline$ -- 856
+num.names$ -- 2116
+pop$ -- 11187
+preamble$ -- 1
+purify$ -- 1060
+quote$ -- 0
+skip$ -- 7789
+stack$ -- 0
+substring$ -- 4330
+swap$ -- 4470
+text.length$ -- 910
+text.prefix$ -- 39
+top$ -- 1
+type$ -- 1353
+warning$ -- 0
+while$ -- 670
+width$ -- 0
+write$ -- 819
+(There was 1 error message)

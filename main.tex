@@ -1,0 +1,96 @@
+\documentclass[12pt]{report}  % if you want to use two side the code is following [12pt,twoside]
+\usepackage[utf8]{inputenc}
+\usepackage{graphicx}
+\graphicspath{{images/}}
+\usepackage{amsmath}
+\usepackage{amssymb}
+\usepackage{amsfonts}
+\usepackage{subfig}
+\usepackage{float}
+\usepackage{nomencl}
+\makenomenclature
+\usepackage{multicol}
+\usepackage[hidelinks]{hyperref}
+\usepackage[a4paper,margin=1in,left=1.5in]{geometry}
+\usepackage{setspace} % this packgae is for double spacing.
+% to get the double spacing use \begin{doublespacing} and \end{doublespacing} in the section
+\usepackage{fancyhdr}
+%\usepackage[latin1]{inputenc}
+\pagestyle{fancy}
+\fancyhf{}
+\fancyhead{} % to clear the header
+\fancyfoot{} % to clear the footer
+\fancyfoot[C]{\thepage}
+%\fancyfoot[LE,RO]{\thepage}
+%\fancyfoot[R]{\thepage\}, use this cmd instead
+%\fancyfoot[LO,CE]{Chapter \thechapter}
+% \fancyfoot[CO,RE]{Author Name}, this line will create another footer on bottom right
+%to change the font size of header and footer the following command is useful
+\renewcommand{\headrulewidth}{0pt} % if you want a line before the header put 1pt 
+\renewcommand{\footrulewidth}{0pt} % if you want a line before the footer put 1pt 
+
+\usepackage[backend=bibtex]{biblatex}
+\addbibresource{reference.bib}
+%\bibliography{reference.bib}
+%\bibliographystyle{plain}
+% this package is for appendix
+
+%--------------------this package is for posting code in the latex
+\usepackage{listings}
+
+%---- these are for making the table of content
+
+
+\begin{document}
+
+
+
+
+
+
+\chapter*{Abstract}
+\addcontentsline{toc}{chapter}{\numberline{}Abstract}
+\begin{doublespacing}
+
+
+
+\end{doublespacing}
+
+\cleardoublepage
+%----------------------------this is main matter
+\pagenumbering{arabic}
+\setcounter{page}{1}
+\chapter{Introduction}
+\input{chapters/Introduction}
+
+
+\chapter{Methodology}
+\input{chapters/Methodology}
+
+\chapter{Results}
+\input{chapters/Results}
+
+\chapter{Discussions and conclusions}
+\input{chapters/Discussions}
+
+
+\chapter{Acknowledgments}
+\input{chapters/Acknowledgments}
+
+
+
+
+\printbibliography
+
+
+\appendix
+
+\chapter{XYZ Algorithm}
+\input{chapters/Appexndix}
+
+\end{document}
+
+
+
+
+

@@ -1,0 +1,60 @@
+\begin{lstlisting}
+
+clc
+clear all
+NN=input('Input the value of N');
+%-----next 13 lines assign an index IG to each basis function
+C=zeros(3,3,3,3);
+IG=0;
+for I=1:3
+   for L=1:NN+1
+      for M=1:NN+1
+         for N=1:NN+1 
+          if (L+M+N > NN+3), break, end
+          IG=IG+1;
+          IC(IG)=1;
+          LB(IG)=1;
+          MB(IG)=1;
+          NB(IG)=1;
+             
+         end
+      end
+   end
+    
+end
+rank=0.5*(NN+1)*(NN+2)*(NN+3);
+NR=IG;
+Gamma=zeros(rank,rank);
+for IG=1:NR
+    for JG=IG:NR
+       I=IC(IG);
+       J=IC(JG);
+       LS=LB(IG)+LB(JG);
+       MS=MB(IG)+MB(JG);
+       NS=NB(IG)+NB(JG);
+       
+       Gamma(IG,JG)=C(I,1,J,1)*LB(IG)*LB(JG)*func(LS-2,MS,NS)+...
+           C(I,2,J,2)*MB(IG)*MB(JG)*func(LS,MS-2,NS)+...
+           C(I,3,J,3)*NB(IG)*NB(JG)*func(LS,MS,NS-2)+...
+           C(I,1,J,2)*LB(IG)*MB(JG)+...
+           C(I,2,J,1)*MB(IG)*LB(JG)*func(LS-1,MS-1,NS)+... 
+           C(I,1,J,3)*LB(IG)*NB(JG)+...
+           C(I,3,J,1)*NB(IG)*LB(IG)*func(LS-1,MS,NS-1)+...
+           C(I,2,J,3)*MB(JG)*NB(IG)+...
+           C(I,3,J,2)*NB(IG)*MB(JG)*func(LS,MS-1,NS-1);
+       Gamma(JG,IG)=Gamma(IG,JG);
+     if(I==J) E(IG,IG)=func(LS,MS,NS) ; 
+       end  
+    end   
+    end
+
+    
+    [vects vals]=eig(E\Gamma);
+    
+    
+    
+    
+
+
+
+\end{lstlisting}
