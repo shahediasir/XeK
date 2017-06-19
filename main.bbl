@@ -73,6 +73,54 @@
   \field{year}{2015}
 \endentry
 
+\entry{hashin1962variational}{article}{}
+  \name{author}{2}{}{%
+    {{}%
+     {Hashin}{H.}%
+     {Zvi}{Z.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Shtrikman}{S.}%
+     {Shmuel}{S.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {AIP}%
+  }
+  \strng{namehash}{HZSS1}
+  \strng{fullhash}{HZSS1}
+  \field{sortinit}{H}
+  \field{number}{10}
+  \field{pages}{3125\bibrangedash 3131}
+  \field{title}{A variational approach to the theory of the effective magnetic
+  permeability of multiphase materials}
+  \field{volume}{33}
+  \field{journaltitle}{Journal of applied Physics}
+  \field{year}{1962}
+\endentry
+
+\entry{maxwell1881treatise}{book}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Maxwell}{M.}%
+     {James~Clerk}{J.~C.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {Clarendon press}%
+  }
+  \strng{namehash}{MJC1}
+  \strng{fullhash}{MJC1}
+  \field{sortinit}{M}
+  \field{pages}{440}
+  \field{title}{A treatise on electricity and magnetism}
+  \field{volume}{1}
+  \field{year}{1904}
+\endentry
+
 \entry{miller2012advantages}{article}{}
   \name{author}{6}{}{%
     {{}%
