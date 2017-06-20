@@ -73,6 +73,48 @@
   \field{year}{2015}
 \endentry
 
+\entry{burkes2010thermo}{article}{}
+  \name{author}{5}{}{%
+    {{}%
+     {Burkes}{B.}%
+     {Douglas~E}{D.~E.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Papesch}{P.}%
+     {Cynthia~A}{C.~A.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Maddison}{M.}%
+     {Andrew~P}{A.~P.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Hartmann}{H.}%
+     {Thomas}{T.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Rice}{R.}%
+     {Francine~J}{F.~J.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {Elsevier}%
+  }
+  \strng{namehash}{BDE+1}
+  \strng{fullhash}{BDEPCAMAPHTRFJ1}
+  \field{sortinit}{B}
+  \field{number}{1}
+  \field{pages}{160\bibrangedash 166}
+  \field{title}{Thermo-physical properties of DU--10wt.\% Mo alloys}
+  \field{volume}{403}
+  \field{journaltitle}{Journal of Nuclear Materials}
+  \field{year}{2010}
+\endentry
+
 \entry{hashin1962variational}{article}{}
   \name{author}{2}{}{%
     {{}%
@@ -200,6 +242,86 @@
   \field{sortinit}{R}
   \field{title}{Thermophysical properties of neon, argon, krypton, and xenon}
   \field{year}{1987}
+\endentry
+
+\entry{xiao2015atomistic}{article}{}
+  \name{author}{4}{}{%
+    {{}%
+     {Xiao}{X.}%
+     {Hongxing}{H.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Long}{L.}%
+     {Chongsheng}{C.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Tian}{T.}%
+     {Xiaofeng}{X.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Li}{L.}%
+     {Shujian}{S.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {Elsevier}%
+  }
+  \strng{namehash}{XH+1}
+  \strng{fullhash}{XHLCTXLS1}
+  \field{sortinit}{X}
+  \field{pages}{55\bibrangedash 60}
+  \field{title}{Atomistic simulations of the small xenon bubble behavior in
+  U--Mo alloy}
+  \field{volume}{74}
+  \field{journaltitle}{Materials \& Design}
+  \field{year}{2015}
+\endentry
+
+\entry{zheng2014thermodynamics}{article}{}
+  \name{author}{5}{}{%
+    {{}%
+     {Zheng}{Z.}%
+     {J}{J}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Chen}{C.}%
+     {QF}{Q.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Gu}{G.}%
+     {YJ}{Y.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Chen}{C.}%
+     {ZY}{Z.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Li}{L.}%
+     {CJ}{C.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {AIP}%
+  }
+  \strng{namehash}{ZJ+1}
+  \strng{fullhash}{ZJCQGYCZLC1}
+  \field{sortinit}{Z}
+  \field{number}{12}
+  \field{pages}{124201}
+  \field{title}{Thermodynamics, compressibility, and phase diagram: Shock
+  compression of supercritical fluid xenon}
+  \field{volume}{141}
+  \field{journaltitle}{The Journal of chemical physics}
+  \field{year}{2014}
 \endentry
 
 \lossort
