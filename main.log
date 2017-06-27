@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2014) (preloaded format=pdflatex 2015.8.12)  20 JUN 2017 12:46
+This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2014) (preloaded format=pdflatex 2015.8.12)  20 JUN 2017 15:37
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -984,15 +984,14 @@ File: images/theory_compare.png Graphic file (type png)
 <use images/theory_compare.png>
 Package pdftex.def Info: images/theory_compare.png used on input line 17.
 (pdftex.def)             Requested size: 263.48372pt x 188.20265pt.
-
-<images/press_eff_k.png, id=93, 639.89063pt x 376.40625pt>
+ [5 <./images/result_Xe_U-10Mo.png>]
+<images/press_eff_k.png, id=100, 639.89063pt x 376.40625pt>
 File: images/press_eff_k.png Graphic file (type png)
 
 <use images/press_eff_k.png>
 Package pdftex.def Info: images/press_eff_k.png used on input line 25.
 (pdftex.def)             Requested size: 319.94452pt x 188.20265pt.
- [5 <./images/result_Xe_U-10Mo.png> <./images/theory_compare.png>]) [6 <./image
-s/press_eff_k.png>]
+) [6 <./images/theory_compare.png> <./images/press_eff_k.png>]
 Chapter 4.
 (./chapters/Discussions.tex) [7
 
@@ -1066,7 +1065,7 @@ r/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr/shar
 e/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texli
 ve/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texlive/tex
 mf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb>
-Output written on main.pdf (12 pages, 182380 bytes).
+Output written on main.pdf (12 pages, 184448 bytes).
 PDF statistics:
  225 PDF objects out of 1000 (max. 8388607)
  195 compressed objects within 2 object streams
