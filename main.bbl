@@ -16,63 +16,6 @@
   {}
 \endgroup
 
-\entry{burkes2015thermal}{article}{}
-  \name{author}{8}{}{%
-    {{}%
-     {Burkes}{B.}%
-     {Douglas~E}{D.~E.}%
-     {}{}%
-     {}{}}%
-    {{}%
-     {Casella}{C.}%
-     {Andrew~M}{A.~M.}%
-     {}{}%
-     {}{}}%
-    {{}%
-     {Casella}{C.}%
-     {Amanda~J}{A.~J.}%
-     {}{}%
-     {}{}}%
-    {{}%
-     {Buck}{B.}%
-     {Edgar~C}{E.~C.}%
-     {}{}%
-     {}{}}%
-    {{}%
-     {Pool}{P.}%
-     {Karl~N}{K.~N.}%
-     {}{}%
-     {}{}}%
-    {{}%
-     {MacFarlan}{M.}%
-     {Paul~J}{P.~J.}%
-     {}{}%
-     {}{}}%
-    {{}%
-     {Edwards}{E.}%
-     {Matthew~K}{M.~K.}%
-     {}{}%
-     {}{}}%
-    {{}%
-     {Smith}{S.}%
-     {Frances~N}{F.~N.}%
-     {}{}%
-     {}{}}%
-  }
-  \list{publisher}{1}{%
-    {Elsevier}%
-  }
-  \strng{namehash}{BDE+1}
-  \strng{fullhash}{BDECAMCAJBECPKNMPJEMKSFN1}
-  \field{sortinit}{B}
-  \field{pages}{331\bibrangedash 341}
-  \field{title}{Thermal properties of U--Mo alloys irradiated to moderate
-  burnup and power}
-  \field{volume}{464}
-  \field{journaltitle}{Journal of Nuclear Materials}
-  \field{year}{2015}
-\endentry
-
 \entry{burkes2010thermo}{article}{}
   \name{author}{5}{}{%
     {{}%
@@ -113,6 +56,112 @@
   \field{volume}{403}
   \field{journaltitle}{Journal of Nuclear Materials}
   \field{year}{2010}
+\endentry
+
+\entry{clark2003monolithic}{inproceedings}{}
+  \name{author}{4}{}{%
+    {{}%
+     {Clark}{C.}%
+     {CR}{C.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Knighton}{K.}%
+     {GC}{G.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Meyer}{M.}%
+     {MK}{M.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Hofman}{H.}%
+     {GL}{G.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{CC+1}
+  \strng{fullhash}{CCKGMMHG1}
+  \field{sortinit}{C}
+  \field{booktitle}{2003 International Meeting on Reduced Enrichment for
+  Research and Test Reactors, Chicago, IL}
+  \field{number}{10}
+  \field{title}{Monolithic fuel plate development at Argonne National
+  Laboratory}
+  \field{volume}{1}
+  \field{year}{2003}
+\endentry
+
+\entry{gaston2009moose}{article}{}
+  \name{author}{4}{}{%
+    {{}%
+     {Gaston}{G.}%
+     {Derek}{D.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Newman}{N.}%
+     {Chris}{C.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Hansen}{H.}%
+     {Glen}{G.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Lebrun-Grandie}{L.-G.}%
+     {Damien}{D.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {Elsevier}%
+  }
+  \strng{namehash}{GD+1}
+  \strng{fullhash}{GDNCHGLGD1}
+  \field{sortinit}{G}
+  \field{number}{10}
+  \field{pages}{1768\bibrangedash 1778}
+  \field{title}{MOOSE: A parallel computational framework for coupled systems
+  of nonlinear equations}
+  \field{volume}{239}
+  \field{journaltitle}{Nuclear Engineering and Design}
+  \field{year}{2009}
+\endentry
+
+\entry{greenwood1959role}{article}{}
+  \name{author}{3}{}{%
+    {{}%
+     {Greenwood}{G.}%
+     {GW}{G.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Foreman}{F.}%
+     {AJE}{A.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Rimmer}{R.}%
+     {DE}{D.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {Elsevier}%
+  }
+  \strng{namehash}{GGFARD1}
+  \strng{fullhash}{GGFARD1}
+  \field{sortinit}{G}
+  \field{number}{4}
+  \field{pages}{305\bibrangedash 324}
+  \field{title}{The role of vacancies and dislocations in the nucleation and
+  growth of gas bubbles in irradiated fissile material}
+  \field{volume}{1}
+  \field{journaltitle}{Journal of Nuclear Materials}
+  \field{year}{1959}
 \endentry
 
 \entry{hashin1962variational}{article}{}
@@ -161,6 +210,58 @@
   \field{title}{A treatise on electricity and magnetism}
   \field{volume}{1}
   \field{year}{1904}
+\endentry
+
+\entry{miller2015transmission}{article}{}
+  \name{author}{7}{}{%
+    {{}%
+     {Miller}{M.}%
+     {BD}{B.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Gan}{G.}%
+     {J}{J}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Keiser}{K.}%
+     {DD}{D.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Robinson}{R.}%
+     {AB}{A.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Jue}{J.}%
+     {JF}{J.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Madden}{M.}%
+     {JW}{J.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Medvedev}{M.}%
+     {PG}{P.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {Elsevier}%
+  }
+  \strng{namehash}{MB+1}
+  \strng{fullhash}{MBGJKDRAJJMJMP1}
+  \field{sortinit}{M}
+  \field{pages}{115\bibrangedash 121}
+  \field{title}{Transmission electron microscopy characterization of the
+  fission gas bubble superlattice in irradiated U--7wt\% Mo dispersion fuels}
+  \field{volume}{458}
+  \field{journaltitle}{Journal of Nuclear Materials}
+  \field{year}{2015}
 \endentry
 
 \entry{miller2012advantages}{article}{}
@@ -242,6 +343,142 @@
   \field{sortinit}{R}
   \field{title}{Thermophysical properties of neon, argon, krypton, and xenon}
   \field{year}{1987}
+\endentry
+
+\entry{ross1980condensed}{article}{}
+  \name{author}{2}{}{%
+    {{}%
+     {Ross}{R.}%
+     {M}{M}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {McMahan}{M.}%
+     {AK}{A.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {APS}%
+  }
+  \strng{namehash}{RMMA1}
+  \strng{fullhash}{RMMA1}
+  \field{sortinit}{R}
+  \field{number}{4}
+  \field{pages}{1658}
+  \field{title}{Condensed xenon at high pressure}
+  \field{volume}{21}
+  \field{journaltitle}{Physical Review B}
+  \field{year}{1980}
+\endentry
+
+\entry{smith2013thermal}{article}{}
+  \name{author}{10}{}{%
+    {{}%
+     {Smith}{S.}%
+     {David~S}{D.~S.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Alzina}{A.}%
+     {Arnaud}{A.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Bourret}{B.}%
+     {Julie}{J.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Nait-Ali}{N.-A.}%
+     {Beno{\^\i}t}{B.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Pennec}{P.}%
+     {Fabienne}{F.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Tessier-Doyen}{T.-D.}%
+     {Nicolas}{N.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Otsu}{O.}%
+     {Kodai}{K.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Matsubara}{M.}%
+     {Hideaki}{H.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Elser}{E.}%
+     {Pierre}{P.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Gonzenbach}{G.}%
+     {Urs~T}{U.~T.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {Cambridge University Press}%
+  }
+  \strng{namehash}{SDS+1}
+  \strng{fullhash}{SDSAABJNABPFTDNOKMHEPGUT1}
+  \field{sortinit}{S}
+  \field{number}{17}
+  \field{pages}{2260\bibrangedash 2272}
+  \field{title}{Thermal conductivity of porous materials}
+  \field{volume}{28}
+  \field{journaltitle}{Journal of Materials Research}
+  \field{year}{2013}
+\endentry
+
+\entry{thomas1991condensed}{incollection}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Thomas}{T.}%
+     {LE}{L.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {Springer}%
+  }
+  \strng{namehash}{TL1}
+  \strng{fullhash}{TL1}
+  \field{sortinit}{T}
+  \field{booktitle}{Fundamental aspects of inert gases in solids}
+  \field{pages}{431\bibrangedash 441}
+  \field{title}{Condensed-phase xenon and krypton in UO2 spent fuel}
+  \field{year}{1991}
+\endentry
+
+\entry{trinkaus1983energetics}{article}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Trinkaus}{T.}%
+     {H}{H}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {Taylor \& Francis}%
+  }
+  \strng{namehash}{TH1}
+  \strng{fullhash}{TH1}
+  \field{sortinit}{T}
+  \field{number}{1-4}
+  \field{pages}{189\bibrangedash 211}
+  \field{title}{Energetics and formation kinetics of helium bubbles in metals}
+  \field{volume}{78}
+  \field{journaltitle}{Radiation Effects}
+  \field{year}{1983}
 \endentry
 
 \entry{xiao2015atomistic}{article}{}
