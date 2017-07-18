@@ -93,6 +93,44 @@
   \field{year}{2003}
 \endentry
 
+\entry{ewh2010microstructural}{article}{}
+  \name{author}{4}{}{%
+    {{}%
+     {Ewh}{E.}%
+     {A}{A}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Perez}{P.}%
+     {E}{E}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Keiser}{K.}%
+     {DD}{D.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Sohn}{S.}%
+     {YH}{Y.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {Springer}%
+  }
+  \strng{namehash}{EA+1}
+  \strng{fullhash}{EAPEKDSY1}
+  \field{sortinit}{E}
+  \field{number}{3}
+  \field{pages}{216\bibrangedash 222}
+  \field{title}{Microstructural Characterization of U-Nb-Zr, U-Mo-Nb, and
+  U-Mo-Ti Alloys via Electron Microscopy}
+  \field{volume}{31}
+  \field{journaltitle}{Journal of phase equilibria and diffusion}
+  \field{year}{2010}
+\endentry
+
 \entry{gaston2009moose}{article}{}
   \name{author}{4}{}{%
     {{}%
@@ -190,6 +228,39 @@
   \field{volume}{33}
   \field{journaltitle}{Journal of applied Physics}
   \field{year}{1962}
+\endentry
+
+\entry{landa2013density}{article}{}
+  \name{author}{3}{}{%
+    {{}%
+     {Landa}{L.}%
+     {A}{A}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {S{\"o}derlind}{S.}%
+     {P}{P}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Turchi}{T.}%
+     {PEA}{P.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {Elsevier}%
+  }
+  \strng{namehash}{LASPTP1}
+  \strng{fullhash}{LASPTP1}
+  \field{sortinit}{L}
+  \field{number}{1}
+  \field{pages}{31\bibrangedash 37}
+  \field{title}{Density-functional study of bcc U--Mo, Np--Mo, Pu--Mo, and
+  Am--Mo alloys}
+  \field{volume}{434}
+  \field{journaltitle}{Journal of Nuclear Materials}
+  \field{year}{2013}
 \endentry
 
 \entry{maxwell1881treatise}{book}{}
@@ -345,6 +416,39 @@
   \field{year}{1987}
 \endentry
 
+\entry{rest2009analysis}{article}{}
+  \name{author}{3}{}{%
+    {{}%
+     {Rest}{R.}%
+     {J}{J}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Hofman}{H.}%
+     {GL}{G.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Kim}{K.}%
+     {Yeon~Soo}{Y.~S.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {Elsevier}%
+  }
+  \strng{namehash}{RJHGKYS1}
+  \strng{fullhash}{RJHGKYS1}
+  \field{sortinit}{R}
+  \field{number}{3}
+  \field{pages}{563\bibrangedash 571}
+  \field{title}{Analysis of intergranular fission-gas bubble-size distributions
+  in irradiated uranium--molybdenum alloy fuel}
+  \field{volume}{385}
+  \field{journaltitle}{Journal of Nuclear Materials}
+  \field{year}{2009}
+\endentry
+
 \entry{ross1980condensed}{article}{}
   \name{author}{2}{}{%
     {{}%
@@ -370,6 +474,60 @@
   \field{volume}{21}
   \field{journaltitle}{Physical Review B}
   \field{year}{1980}
+\endentry
+
+\entry{smirnova2013ternary}{article}{}
+  \name{author}{7}{}{%
+    {{}%
+     {Smirnova}{S.}%
+     {DE}{D.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Kuksin}{K.}%
+     {A~Yu}{A.~Y.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Starikov}{S.}%
+     {SV}{S.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Stegailov}{S.}%
+     {VV}{V.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Insepov}{I.}%
+     {Z}{Z}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Rest}{R.}%
+     {J}{J}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Yacout}{Y.}%
+     {AM}{A.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {IOP Publishing}%
+  }
+  \strng{namehash}{SD+1}
+  \strng{fullhash}{SDKAYSSSVIZRJYA1}
+  \field{sortinit}{S}
+  \field{number}{3}
+  \field{pages}{035011}
+  \field{title}{A ternary EAM interatomic potential for U--Mo alloys with
+  xenon}
+  \field{volume}{21}
+  \field{journaltitle}{Modelling and Simulation in Materials Science and
+  Engineering}
+  \field{year}{2013}
 \endentry
 
 \entry{smith2013thermal}{article}{}
@@ -437,6 +595,48 @@
   \field{volume}{28}
   \field{journaltitle}{Journal of Materials Research}
   \field{year}{2013}
+\endentry
+
+\entry{snelgrove1997development}{article}{}
+  \name{author}{5}{}{%
+    {{}%
+     {Snelgrove}{S.}%
+     {James~L}{J.~L.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Hofman}{H.}%
+     {GL}{G.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Meyer}{M.}%
+     {MK}{M.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Trybus}{T.}%
+     {CL}{C.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Wiencek}{W.}%
+     {TC}{T.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {Elsevier}%
+  }
+  \strng{namehash}{SJL+1}
+  \strng{fullhash}{SJLHGMMTCWT1}
+  \field{sortinit}{S}
+  \field{number}{1}
+  \field{pages}{119\bibrangedash 126}
+  \field{title}{Development of very-high-density low-enriched-uranium fuels}
+  \field{volume}{178}
+  \field{journaltitle}{Nuclear Engineering and Design}
+  \field{year}{1997}
 \endentry
 
 \entry{thomas1991condensed}{incollection}{}
