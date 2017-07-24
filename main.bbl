@@ -16,6 +16,143 @@
   {}
 \endgroup
 
+\entry{bakker1997using}{article}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Bakker}{B.}%
+     {K}{K}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {Elsevier}%
+  }
+  \strng{namehash}{BK1}
+  \strng{fullhash}{BK1}
+  \field{sortinit}{B}
+  \field{number}{15}
+  \field{pages}{3503\bibrangedash 3511}
+  \field{title}{Using the finite element method to compute the influence of
+  complex porosity and inclusion structures on the thermal and electrical
+  conductivity}
+  \field{volume}{40}
+  \field{journaltitle}{International Journal of Heat and Mass Transfer}
+  \field{year}{1997}
+\endentry
+
+\entry{bakker1995determination}{article}{}
+  \name{author}{3}{}{%
+    {{}%
+     {Bakker}{B.}%
+     {K}{K}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Kwast}{K.}%
+     {H}{H}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Cordfunke}{C.}%
+     {EHP}{E.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {Elsevier}%
+  }
+  \strng{namehash}{BKKHCE1}
+  \strng{fullhash}{BKKHCE1}
+  \field{sortinit}{B}
+  \field{number}{1-2}
+  \field{pages}{128\bibrangedash 143}
+  \field{title}{Determination of a porosity correction factor for the thermal
+  conductivity of irradiated U02 fuel by means of the finite element method}
+  \field{volume}{226}
+  \field{journaltitle}{Journal of nuclear materials}
+  \field{year}{1995}
+\endentry
+
+\entry{bauer1993general}{article}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Bauer}{B.}%
+     {TH}{T.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {Elsevier}%
+  }
+  \strng{namehash}{BT1}
+  \strng{fullhash}{BT1}
+  \field{sortinit}{B}
+  \field{number}{17}
+  \field{pages}{4181\bibrangedash 4191}
+  \field{title}{A general analytical approach toward the thermal conductivity
+  of porous media}
+  \field{volume}{36}
+  \field{journaltitle}{International journal of heat and mass transfer}
+  \field{year}{1993}
+\endentry
+
+\entry{burkes2015thermal}{article}{}
+  \name{author}{8}{}{%
+    {{}%
+     {Burkes}{B.}%
+     {Douglas~E}{D.~E.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Casella}{C.}%
+     {Andrew~M}{A.~M.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Casella}{C.}%
+     {Amanda~J}{A.~J.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Buck}{B.}%
+     {Edgar~C}{E.~C.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Pool}{P.}%
+     {Karl~N}{K.~N.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {MacFarlan}{M.}%
+     {Paul~J}{P.~J.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Edwards}{E.}%
+     {Matthew~K}{M.~K.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Smith}{S.}%
+     {Frances~N}{F.~N.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {Elsevier}%
+  }
+  \strng{namehash}{BDE+1}
+  \strng{fullhash}{BDECAMCAJBECPKNMPJEMKSFN1}
+  \field{sortinit}{B}
+  \field{pages}{331\bibrangedash 341}
+  \field{title}{Thermal properties of U--Mo alloys irradiated to moderate
+  burnup and power}
+  \field{volume}{464}
+  \field{journaltitle}{Journal of Nuclear Materials}
+  \field{year}{2015}
+\endentry
+
 \entry{burkes2010thermo}{article}{}
   \name{author}{5}{}{%
     {{}%
@@ -91,6 +228,53 @@
   Laboratory}
   \field{volume}{1}
   \field{year}{2003}
+\endentry
+
+\entry{cunningham1981heat}{article}{}
+  \name{author}{2}{}{%
+    {{}%
+     {Cunningham}{C.}%
+     {ME}{M.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Peddicord}{P.}%
+     {KL}{K.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {Elsevier}%
+  }
+  \strng{namehash}{CMPK1}
+  \strng{fullhash}{CMPK1}
+  \field{sortinit}{C}
+  \field{number}{7}
+  \field{pages}{1081\bibrangedash 1088}
+  \field{title}{Heat conduction in spheres packed in an infinite regular
+  cubical array}
+  \field{volume}{24}
+  \field{journaltitle}{International Journal of Heat and Mass Transfer}
+  \field{year}{1981}
+\endentry
+
+\entry{devries1989experimental}{article}{}
+  \name{author}{1}{}{%
+    {{}%
+     {DeVries}{D.}%
+     {MF}{M.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{DM1}
+  \strng{fullhash}{DM1}
+  \field{sortinit}{D}
+  \field{pages}{281}
+  \field{title}{An experimental determination of the thermal conductivity of a
+  304L stainless steel powder metallurgy material}
+  \field{volume}{111}
+  \field{journaltitle}{Journal of Heat Transfer}
+  \field{year}{1989}
 \endentry
 
 \entry{ewh2010microstructural}{article}{}
@@ -169,6 +353,34 @@
   \field{year}{2009}
 \endentry
 
+\entry{goldsmith1973measurements}{article}{}
+  \name{author}{2}{}{%
+    {{}%
+     {Goldsmith}{G.}%
+     {LA}{L.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Douglas}{D.}%
+     {JAM}{J.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {Elsevier}%
+  }
+  \strng{namehash}{GLDJ1}
+  \strng{fullhash}{GLDJ1}
+  \field{sortinit}{G}
+  \field{number}{1}
+  \field{pages}{31\bibrangedash 42}
+  \field{title}{Measurements of the thermal conductivity of uranium dioxide at
+  670--1270 K}
+  \field{volume}{47}
+  \field{journaltitle}{Journal of Nuclear Materials}
+  \field{year}{1973}
+\endentry
+
 \entry{greenwood1959role}{article}{}
   \name{author}{3}{}{%
     {{}%
@@ -230,6 +442,75 @@
   \field{year}{1962}
 \endentry
 
+\entry{hu2015assessment}{article}{}
+  \name{author}{5}{}{%
+    {{}%
+     {Hu}{H.}%
+     {Shenyang}{S.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Casella}{C.}%
+     {Andrew~M}{A.~M.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Lavender}{L.}%
+     {Curt~A}{C.~A.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Senor}{S.}%
+     {David~J}{D.~J.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Burkes}{B.}%
+     {Douglas~E}{D.~E.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {Elsevier}%
+  }
+  \strng{namehash}{HS+1}
+  \strng{fullhash}{HSCAMLCASDJBDE1}
+  \field{sortinit}{H}
+  \field{pages}{64\bibrangedash 76}
+  \field{title}{Assessment of effective thermal conductivity in U--Mo metallic
+  fuels with distributed gas bubbles}
+  \field{volume}{462}
+  \field{journaltitle}{Journal of Nuclear Materials}
+  \field{year}{2015}
+\endentry
+
+\entry{kim2011fission}{article}{}
+  \name{author}{2}{}{%
+    {{}%
+     {Kim}{K.}%
+     {Yeon~Soo}{Y.~S.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Hofman}{H.}%
+     {GL}{G.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {Elsevier}%
+  }
+  \strng{namehash}{KYSHG1}
+  \strng{fullhash}{KYSHG1}
+  \field{sortinit}{K}
+  \field{number}{1}
+  \field{pages}{291\bibrangedash 301}
+  \field{title}{Fission product induced swelling of U--Mo alloy fuel}
+  \field{volume}{419}
+  \field{journaltitle}{Journal of Nuclear Materials}
+  \field{year}{2011}
+\endentry
+
 \entry{landa2013density}{article}{}
   \name{author}{3}{}{%
     {{}%
@@ -263,6 +544,61 @@
   \field{year}{2013}
 \endentry
 
+\entry{loeb1954thermal}{article}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Loeb}{L.}%
+     {Arthur~L}{A.~L.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {Wiley Online Library}%
+  }
+  \strng{namehash}{LAL1}
+  \strng{fullhash}{LAL1}
+  \field{sortinit}{L}
+  \field{number}{2}
+  \field{pages}{96\bibrangedash 99}
+  \field{title}{Thermal conductivity: VIII, a theory of thermal conductivity of
+  porous materials}
+  \field{volume}{37}
+  \field{journaltitle}{Journal of the American Ceramic Society}
+  \field{year}{1954}
+\endentry
+
+\entry{macewan1967effect}{article}{}
+  \name{author}{3}{}{%
+    {{}%
+     {MacEwan}{M.}%
+     {JB}{J.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Stoute}{S.}%
+     {RL}{R.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Notley}{N.}%
+     {MJF}{M.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {North-Holland}%
+  }
+  \strng{namehash}{MJSRNM1}
+  \strng{fullhash}{MJSRNM1}
+  \field{sortinit}{M}
+  \field{number}{1}
+  \field{pages}{109\bibrangedash 112}
+  \field{title}{Effect of porosity on the thermal conductivity of UO2}
+  \field{volume}{24}
+  \field{journaltitle}{Journal of Nuclear Materials}
+  \field{year}{1967}
+\endentry
+
 \entry{maxwell1881treatise}{book}{}
   \name{author}{1}{}{%
     {{}%
@@ -281,6 +617,73 @@
   \field{title}{A treatise on electricity and magnetism}
   \field{volume}{1}
   \field{year}{1904}
+\endentry
+
+\entry{meyer2014irradiation}{article}{}
+  \name{author}{10}{}{%
+    {{}%
+     {Meyer}{M.}%
+     {MK}{M.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Gan}{G.}%
+     {J}{J}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Jue}{J.}%
+     {JF}{J.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Keiser}{K.}%
+     {DD}{D.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Perez}{P.}%
+     {E}{E}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Robinson}{R.}%
+     {A}{A}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Wachs}{W.}%
+     {DM}{D.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Woolstenhulme}{W.}%
+     {N}{N}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Hofman}{H.}%
+     {GL}{G.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Kim}{K.}%
+     {YS}{Y.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {Elsevier}%
+  }
+  \strng{namehash}{MM+1}
+  \strng{fullhash}{MMGJJJKDPERAWDWNHGKY1}
+  \field{sortinit}{M}
+  \field{number}{2}
+  \field{pages}{169\bibrangedash 182}
+  \field{title}{Irradiation performance of U-Mo monolithic fuel}
+  \field{volume}{46}
+  \field{journaltitle}{Nuclear Engineering and Technology}
+  \field{year}{2014}
 \endentry
 
 \entry{miller2015transmission}{article}{}
@@ -383,6 +786,39 @@
   \field{year}{2012}
 \endentry
 
+\entry{noirot2008detailed}{article}{}
+  \name{author}{3}{}{%
+    {{}%
+     {Noirot}{N.}%
+     {J}{J}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Desgranges}{D.}%
+     {L}{L}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Lamontagne}{L.}%
+     {J}{J}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {Elsevier}%
+  }
+  \strng{namehash}{NJDLLJ1}
+  \strng{fullhash}{NJDLLJ1}
+  \field{sortinit}{N}
+  \field{number}{2}
+  \field{pages}{318\bibrangedash 339}
+  \field{title}{Detailed characterisations of high burn-up structures in oxide
+  fuels}
+  \field{volume}{372}
+  \field{journaltitle}{Journal of Nuclear Materials}
+  \field{year}{2008}
+\endentry
+
 \entry{rabinovich1987thermophysical}{article}{}
   \name{author}{4}{}{%
     {{}%
@@ -447,6 +883,33 @@
   \field{volume}{385}
   \field{journaltitle}{Journal of Nuclear Materials}
   \field{year}{2009}
+\endentry
+
+\entry{rondinella2010high}{article}{}
+  \name{author}{2}{}{%
+    {{}%
+     {Rondinella}{R.}%
+     {Vincenzo~V}{V.~V.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Wiss}{W.}%
+     {Thierry}{T.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {Elsevier}%
+  }
+  \strng{namehash}{RVVWT1}
+  \strng{fullhash}{RVVWT1}
+  \field{sortinit}{R}
+  \field{number}{12}
+  \field{pages}{24\bibrangedash 32}
+  \field{title}{The high burn-up structure in nuclear fuel}
+  \field{volume}{13}
+  \field{journaltitle}{Materials today}
+  \field{year}{2010}
 \endentry
 
 \entry{ross1980condensed}{article}{}
@@ -639,6 +1102,66 @@
   \field{year}{1997}
 \endentry
 
+\entry{stehle1988performance}{article}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Stehle}{S.}%
+     {H}{H}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {Elsevier}%
+  }
+  \strng{namehash}{SH1}
+  \strng{fullhash}{SH1}
+  \field{sortinit}{S}
+  \field{pages}{3\bibrangedash 15}
+  \field{title}{Performance of oxide nuclear fuel in water-cooled power
+  reactors}
+  \field{volume}{153}
+  \field{journaltitle}{Journal of Nuclear Materials}
+  \field{year}{1988}
+\endentry
+
+\entry{teague2014using}{article}{}
+  \name{author}{4}{}{%
+    {{}%
+     {Teague}{T.}%
+     {Melissa~C}{M.~C.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Fromm}{F.}%
+     {Bradley~S}{B.~S.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Tonks}{T.}%
+     {Michael~R}{M.~R.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Field}{F.}%
+     {David~P}{D.~P.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {Springer}%
+  }
+  \strng{namehash}{TMC+1}
+  \strng{fullhash}{TMCFBSTMRFDP1}
+  \field{sortinit}{T}
+  \field{number}{12}
+  \field{pages}{2569\bibrangedash 2577}
+  \field{title}{Using coupled mesoscale experiments and simulations to
+  investigate high burn-up oxide fuel thermal conductivity}
+  \field{volume}{66}
+  \field{journaltitle}{Jom}
+  \field{year}{2014}
+\endentry
+
 \entry{thomas1991condensed}{incollection}{}
   \name{author}{1}{}{%
     {{}%
@@ -681,6 +1204,29 @@
   \field{year}{1983}
 \endentry
 
+\entry{tzou1991effect}{article}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Tzou}{T.}%
+     {Da~Yu}{D.~Y.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {Elsevier}%
+  }
+  \strng{namehash}{TDY1}
+  \strng{fullhash}{TDY1}
+  \field{sortinit}{T}
+  \field{number}{7}
+  \field{pages}{1839\bibrangedash 1846}
+  \field{title}{The effect of internal heat transfer in cavities on the overall
+  thermal conductivity}
+  \field{volume}{34}
+  \field{journaltitle}{International journal of heat and mass transfer}
+  \field{year}{1991}
+\endentry
+
 \entry{xiao2015atomistic}{article}{}
   \name{author}{4}{}{%
     {{}%
@@ -716,6 +1262,49 @@
   \field{volume}{74}
   \field{journaltitle}{Materials \& Design}
   \field{year}{2015}
+\endentry
+
+\entry{yun2014simulation}{article}{}
+  \name{author}{5}{}{%
+    {{}%
+     {Yun}{Y.}%
+     {Di}{D.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Yacout}{Y.}%
+     {Abdellatif~M}{A.~M.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Stan}{S.}%
+     {Marius}{M.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Bauer}{B.}%
+     {Theodore~H}{T.~H.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Wright}{W.}%
+     {Arthur~E}{A.~E.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {Elsevier}%
+  }
+  \strng{namehash}{YD+1}
+  \strng{fullhash}{YDYAMSMBTHWAE1}
+  \field{sortinit}{Y}
+  \field{number}{1}
+  \field{pages}{129\bibrangedash 138}
+  \field{title}{Simulation of the impact of 3-D porosity distribution in
+  metallic U--10Zr fuels}
+  \field{volume}{448}
+  \field{journaltitle}{Journal of Nuclear Materials}
+  \field{year}{2014}
 \endentry
 
 \entry{zheng2014thermodynamics}{article}{}
