@@ -277,6 +277,56 @@
   \field{year}{1989}
 \endentry
 
+\entry{evans1983void}{article}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Evans}{E.}%
+     {JH}{J.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {Elsevier}%
+  }
+  \strng{namehash}{EJ1}
+  \strng{fullhash}{EJ1}
+  \field{sortinit}{E}
+  \field{number}{2-3}
+  \field{pages}{180\bibrangedash 188}
+  \field{title}{Void and bubble lattice formation in molybdenum: A mechanism
+  based on two-dimensional self-interstitial diffusion}
+  \field{volume}{119}
+  \field{journaltitle}{Journal of Nuclear Materials}
+  \field{year}{1983}
+\endentry
+
+\entry{evans1986solid}{article}{}
+  \name{author}{2}{}{%
+    {{}%
+     {Evans}{E.}%
+     {JH}{J.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Mazey}{M.}%
+     {DJ}{D.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {Elsevier}%
+  }
+  \strng{namehash}{EJMD1}
+  \strng{fullhash}{EJMD1}
+  \field{sortinit}{E}
+  \field{number}{2-3}
+  \field{pages}{176\bibrangedash 184}
+  \field{title}{Solid bubble formation in titanium injected with krypton ions}
+  \field{volume}{138}
+  \field{journaltitle}{Journal of Nuclear Materials}
+  \field{year}{1986}
+\endentry
+
 \entry{ewh2010microstructural}{article}{}
   \name{author}{4}{}{%
     {{}%
@@ -312,6 +362,107 @@
   U-Mo-Ti Alloys via Electron Microscopy}
   \field{volume}{31}
   \field{journaltitle}{Journal of phase equilibria and diffusion}
+  \field{year}{2010}
+\endentry
+
+\entry{gan2012tem}{article}{}
+  \name{author}{7}{}{%
+    {{}%
+     {Gan}{G.}%
+     {Jian}{J.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Keiser}{K.}%
+     {DD}{D.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Miller}{M.}%
+     {Brandon~D}{B.~D.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Robinson}{R.}%
+     {Adam~B}{A.~B.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Jue}{J.}%
+     {Jan-Fong}{J.-F.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Medvedev}{M.}%
+     {Pavel}{P.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Wachs}{W.}%
+     {Dan~M}{D.~M.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {Elsevier}%
+  }
+  \strng{namehash}{GJ+1}
+  \strng{fullhash}{GJKDMBDRABJJFMPWDM1}
+  \field{sortinit}{G}
+  \field{number}{1}
+  \field{pages}{43\bibrangedash 50}
+  \field{title}{TEM characterization of U--7Mo/Al--2Si dispersion fuel
+  irradiated to intermediate and high fission densities}
+  \field{volume}{424}
+  \field{journaltitle}{Journal of Nuclear Materials}
+  \field{year}{2012}
+\endentry
+
+\entry{gan2010transmission}{article}{}
+  \name{author}{6}{}{%
+    {{}%
+     {Gan}{G.}%
+     {Jian}{J.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Keiser}{K.}%
+     {DD}{D.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Wachs}{W.}%
+     {Dan~M}{D.~M.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Robinson}{R.}%
+     {Adam~B}{A.~B.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Miller}{M.}%
+     {Brandon~D}{B.~D.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Allen}{A.}%
+     {Todd~R}{T.~R.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {Elsevier}%
+  }
+  \strng{namehash}{GJ+1}
+  \strng{fullhash}{GJKDWDMRABMBDATR1}
+  \field{sortinit}{G}
+  \field{number}{2}
+  \field{pages}{234\bibrangedash 239}
+  \field{title}{Transmission electron microscopy characterization of irradiated
+  U--7Mo/Al--2Si dispersion fuel}
+  \field{volume}{396}
+  \field{journaltitle}{Journal of Nuclear Materials}
   \field{year}{2010}
 \endentry
 
@@ -351,6 +502,39 @@
   \field{volume}{239}
   \field{journaltitle}{Nuclear Engineering and Design}
   \field{year}{2009}
+\endentry
+
+\entry{ghoniem2001theory}{article}{}
+  \name{author}{3}{}{%
+    {{}%
+     {Ghoniem}{G.}%
+     {NM}{N.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Walgraef}{W.}%
+     {Daniel}{D.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Zinkle}{Z.}%
+     {SJ}{S.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {Springer}%
+  }
+  \strng{namehash}{GNWDZS1}
+  \strng{fullhash}{GNWDZS1}
+  \field{sortinit}{G}
+  \field{number}{1}
+  \field{pages}{1\bibrangedash 38}
+  \field{title}{Theory and experiment of nanostructure self-organization in
+  irradiated materials}
+  \field{volume}{8}
+  \field{journaltitle}{Journal of computer-aided materials design}
+  \field{year}{2001}
 \endentry
 
 \entry{goldsmith1973measurements}{article}{}
@@ -484,6 +668,150 @@
   \field{year}{2015}
 \endentry
 
+\entry{johnson2006helium}{article}{}
+  \name{author}{2}{}{%
+    {{}%
+     {Johnson}{J.}%
+     {PB}{P.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Lawson}{L.}%
+     {Fenella}{F.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {Elsevier}%
+  }
+  \strng{namehash}{JPLF1}
+  \strng{fullhash}{JPLF1}
+  \field{sortinit}{J}
+  \field{number}{2}
+  \field{pages}{325\bibrangedash 334}
+  \field{title}{Helium gas-bubble superlattice formation in molybdenum}
+  \field{volume}{243}
+  \field{journaltitle}{Nuclear Instruments and Methods in Physics Research
+  Section B: Beam Interactions with Materials and Atoms}
+  \field{year}{2006}
+\endentry
+
+\entry{johnson1995gas}{article}{}
+  \name{author}{2}{}{%
+    {{}%
+     {Johnson}{J.}%
+     {PB}{P.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Mazey}{M.}%
+     {DJ}{D.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {Elsevier}%
+  }
+  \strng{namehash}{JPMD1}
+  \strng{fullhash}{JPMD1}
+  \field{sortinit}{J}
+  \field{number}{3}
+  \field{pages}{273\bibrangedash 288}
+  \field{title}{Gas-bubble superlattice formation in bcc metals}
+  \field{volume}{218}
+  \field{journaltitle}{Journal of nuclear materials}
+  \field{year}{1995}
+\endentry
+
+\entry{johnson1980hydrogen}{article}{}
+  \name{author}{2}{}{%
+    {{}%
+     {Johnson}{J.}%
+     {PB}{P.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Mazey}{M.}%
+     {DJ}{D.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {Elsevier}%
+  }
+  \strng{namehash}{JPMD1}
+  \strng{fullhash}{JPMD1}
+  \field{sortinit}{J}
+  \field{number}{1}
+  \field{pages}{41\bibrangedash 46}
+  \field{title}{Hydrogen gas-bubble structure in proton-irradiated copper at
+  300 K}
+  \field{volume}{91}
+  \field{journaltitle}{Journal of Nuclear Materials}
+  \field{year}{1980}
+\endentry
+
+\entry{johnson1980gas}{article}{}
+  \name{author}{2}{}{%
+    {{}%
+     {Johnson}{J.}%
+     {PB}{P.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Mazey}{M.}%
+     {DJ}{D.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {Elsevier}%
+  }
+  \strng{namehash}{JPMD1}
+  \strng{fullhash}{JPMD1}
+  \field{sortinit}{J}
+  \field{pages}{721\bibrangedash 727}
+  \field{title}{The gas-bubble superlattice and the development of surface
+  structure in He+ and H irradiated metals at 300 K}
+  \field{volume}{93}
+  \field{journaltitle}{Journal of Nuclear Materials}
+  \field{year}{1980}
+\endentry
+
+\entry{johnson1991image}{article}{}
+  \name{author}{3}{}{%
+    {{}%
+     {Johnson}{J.}%
+     {PB}{P.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Stevens}{S.}%
+     {KJ}{K.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Thomson}{T.}%
+     {RW}{R.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {Elsevier}%
+  }
+  \strng{namehash}{JPSKTR1}
+  \strng{fullhash}{JPSKTR1}
+  \field{sortinit}{J}
+  \field{number}{2}
+  \field{pages}{218\bibrangedash 227}
+  \field{title}{Image processing techniques in the study of ordered bubble
+  arrays: bubble facetting in vanadium}
+  \field{volume}{62}
+  \field{journaltitle}{Nuclear Instruments and Methods in Physics Research
+  Section B: Beam Interactions with Materials and Atoms}
+  \field{year}{1991}
+\endentry
+
 \entry{kim2011fission}{article}{}
   \name{author}{2}{}{%
     {{}%
@@ -542,6 +870,34 @@
   \field{volume}{434}
   \field{journaltitle}{Journal of Nuclear Materials}
   \field{year}{2013}
+\endentry
+
+\entry{lawson1998temperature}{article}{}
+  \name{author}{2}{}{%
+    {{}%
+     {Lawson}{L.}%
+     {FE}{F.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Johnson}{J.}%
+     {PB}{P.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {Elsevier}%
+  }
+  \strng{namehash}{LFJP1}
+  \strng{fullhash}{LFJP1}
+  \field{sortinit}{L}
+  \field{number}{1-2}
+  \field{pages}{34\bibrangedash 42}
+  \field{title}{A temperature threshold for gas-bubble superlattice formation
+  in molybdenum}
+  \field{volume}{252}
+  \field{journaltitle}{Journal of nuclear materials}
+  \field{year}{1998}
 \endentry
 
 \entry{loeb1954thermal}{article}{}
@@ -617,6 +973,34 @@
   \field{title}{A treatise on electricity and magnetism}
   \field{volume}{1}
   \field{year}{1904}
+\endentry
+
+\entry{mazey1986bubble}{article}{}
+  \name{author}{2}{}{%
+    {{}%
+     {Mazey}{M.}%
+     {DJ}{D.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Evans}{E.}%
+     {JH}{J.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {Elsevier}%
+  }
+  \strng{namehash}{MDEJ1}
+  \strng{fullhash}{MDEJ1}
+  \field{sortinit}{M}
+  \field{number}{1}
+  \field{pages}{16\bibrangedash 18}
+  \field{title}{Bubble lattice formation in titanium injected with krypton
+  ions}
+  \field{volume}{138}
+  \field{journaltitle}{Journal of Nuclear Materials}
+  \field{year}{1986}
 \endentry
 
 \entry{meyer2014irradiation}{article}{}
